@@ -1,0 +1,444 @@
+/* ============================================================
+   The AI Disciple — Design System
+   Art direction: warm cream paper + deep ink navy + cobalt blue accent.
+   Display: Zodiak (serif) · Body: Satoshi (sans)
+   ============================================================ */
+
+:root {
+  /* Type scale (fluid) */
+  --text-xs: clamp(0.75rem, 0.7rem + 0.25vw, 0.8125rem);
+  --text-sm: clamp(0.875rem, 0.83rem + 0.2vw, 0.9375rem);
+  --text-base: clamp(1rem, 0.96rem + 0.2vw, 1.0625rem);
+  --text-lg: clamp(1.125rem, 1.05rem + 0.45vw, 1.375rem);
+  --text-xl: clamp(1.5rem, 1.25rem + 1.1vw, 2.125rem);
+  --text-2xl: clamp(2rem, 1.35rem + 2.4vw, 3.25rem);
+  --text-3xl: clamp(2.5rem, 1.5rem + 3.6vw, 4.25rem);
+
+  /* Spacing (4px base) */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.25rem;
+  --space-6: 1.5rem;
+  --space-8: 2rem;
+  --space-10: 2.5rem;
+  --space-12: 3rem;
+  --space-16: 4rem;
+  --space-20: 5rem;
+  --space-24: 6rem;
+  --space-32: 8rem;
+
+  /* Fonts */
+  --font-display: 'Zodiak', 'Iowan Old Style', Georgia, serif;
+  --font-body: 'Satoshi', 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+
+  /* Radii & shadows */
+  --radius-sm: 4px;
+  --radius: 8px;
+  --radius-lg: 14px;
+  --shadow-sm: 0 1px 2px rgb(23 26 33 / 0.05), 0 1px 3px rgb(23 26 33 / 0.04);
+  --shadow-md: 0 4px 12px rgb(23 26 33 / 0.07), 0 2px 4px rgb(23 26 33 / 0.04);
+  --shadow-lg: 0 18px 40px rgb(23 26 33 / 0.11), 0 4px 10px rgb(23 26 33 / 0.05);
+
+  /* Motion */
+  --ease: cubic-bezier(0.16, 1, 0.3, 1);
+  --dur: 0.35s;
+
+  /* Layout */
+  --container: 1180px;
+  --container-narrow: 760px;
+}
+
+/* ---------- Light theme (default) ---------- */
+:root,
+[data-theme='light'] {
+  --color-bg: #faf7f1;
+  --color-surface: #ffffff;
+  --color-surface-2: #f3eee3;
+  --color-surface-3: #ece5d7;
+  --color-border: #e0d8c8;
+  --color-divider: #ebe4d7;
+
+  --color-text: #171a21;
+  --color-text-muted: #5b6070;
+  --color-text-faint: #8b909d;
+
+  --color-accent: #0b4f9e;
+  --color-accent-hover: #08407f;
+  --color-accent-soft: #e4edf9;
+
+  --color-ink: #10141c;
+  --color-ink-2: #1a202b;
+  --color-on-ink: #f2ece0;
+  --color-on-ink-muted: #a5abb8;
+  --color-on-ink-accent: #5f9ae0;
+  --color-ink-border: #2b323e;
+
+  --shadow-color: 23 26 33;
+  color-scheme: light;
+}
+
+/* ---------- Dark theme ---------- */
+[data-theme='dark'] {
+  --color-bg: #0e1218;
+  --color-surface: #151a23;
+  --color-surface-2: #1b212c;
+  --color-surface-3: #232a36;
+  --color-border: #2b323e;
+  --color-divider: #232a36;
+
+  --color-text: #ece7dc;
+  --color-text-muted: #9aa1ae;
+  --color-text-faint: #6d7482;
+
+  --color-accent: #5f9ae0;
+  --color-accent-hover: #85b6ea;
+  --color-accent-soft: #16202e;
+
+  --color-ink: #080b10;
+  --color-ink-2: #10141c;
+  --color-on-ink: #ece7dc;
+  --color-on-ink-muted: #9aa1ae;
+  --color-on-ink-accent: #5f9ae0;
+  --color-ink-border: #232a36;
+
+  --shadow-sm: 0 1px 2px rgb(0 0 0 / 0.4);
+  --shadow-md: 0 4px 12px rgb(0 0 0 / 0.45);
+  --shadow-lg: 0 18px 40px rgb(0 0 0 / 0.55);
+  color-scheme: dark;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) {
+    --color-bg: #0e1218;
+    --color-surface: #151a23;
+    --color-surface-2: #1b212c;
+    --color-surface-3: #232a36;
+    --color-border: #2b323e;
+    --color-divider: #232a36;
+    --color-text: #ece7dc;
+    --color-text-muted: #9aa1ae;
+    --color-text-faint: #6d7482;
+    --color-accent: #5f9ae0;
+    --color-accent-hover: #85b6ea;
+    --color-accent-soft: #16202e;
+    --color-ink: #080b10;
+    --color-ink-2: #10141c;
+    --color-on-ink: #ece7dc;
+    --color-on-ink-muted: #9aa1ae;
+    --color-ink-border: #232a36;
+    --shadow-sm: 0 1px 2px rgb(0 0 0 / 0.4);
+    --shadow-md: 0 4px 12px rgb(0 0 0 / 0.45);
+    --shadow-lg: 0 18px 40px rgb(0 0 0 / 0.55);
+    color-scheme: dark;
+  }
+}
+
+/* ---------- Reset ---------- */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+* {
+  margin: 0;
+}
+html {
+  -webkit-text-size-adjust: 100%;
+  scroll-behavior: smooth;
+  scroll-padding-top: 5.5rem;
+}
+body {
+  font-family: var(--font-body);
+  font-size: var(--text-base);
+  line-height: 1.65;
+  color: var(--color-text);
+  background: var(--color-bg);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  overflow-x: hidden;
+  transition: background-color var(--dur) var(--ease), color var(--dur) var(--ease);
+}
+img,
+picture,
+svg,
+video,
+iframe {
+  display: block;
+  max-width: 100%;
+}
+img {
+  height: auto;
+}
+input,
+button,
+textarea,
+select {
+  font: inherit;
+  color: inherit;
+}
+button {
+  cursor: pointer;
+  background: none;
+  border: none;
+}
+a {
+  color: var(--color-accent);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+a:hover {
+  color: var(--color-accent-hover);
+}
+h1,
+h2,
+h3,
+h4 {
+  font-weight: 600;
+  line-height: 1.15;
+  text-wrap: balance;
+  letter-spacing: -0.015em;
+}
+p {
+  text-wrap: pretty;
+}
+ul,
+ol {
+  padding-left: 1.15em;
+}
+:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 3px;
+  border-radius: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* ---------- Layout primitives ---------- */
+.container {
+  width: 100%;
+  max-width: var(--container);
+  margin-inline: auto;
+  padding-inline: clamp(var(--space-5), 5vw, var(--space-10));
+}
+.container--narrow {
+  max-width: var(--container-narrow);
+}
+.section {
+  padding-block: clamp(var(--space-16), 9vw, var(--space-32));
+}
+.section--tight {
+  padding-block: clamp(var(--space-12), 6vw, var(--space-20));
+}
+.skip-link {
+  position: absolute;
+  left: -9999px;
+  top: 0;
+  background: var(--color-accent);
+  color: #fff;
+  padding: var(--space-3) var(--space-5);
+  z-index: 200;
+  border-radius: 0 0 var(--radius) 0;
+}
+.skip-link:focus {
+  left: 0;
+  color: #fff;
+}
+
+/* ---------- Typography helpers ---------- */
+.eyebrow {
+  font-family: var(--font-body);
+  font-size: var(--text-xs);
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--color-accent);
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  margin-bottom: var(--space-5);
+}
+.eyebrow::before {
+  content: '';
+  width: 1.75rem;
+  height: 1px;
+  background: currentColor;
+  flex: none;
+}
+.eyebrow--center {
+  justify-content: center;
+}
+.display {
+  font-family: var(--font-display);
+  font-weight: 500;
+  letter-spacing: -0.025em;
+}
+h1.display {
+  font-size: var(--text-3xl);
+  line-height: 1.05;
+}
+h2.display {
+  font-size: var(--text-2xl);
+  line-height: 1.1;
+}
+h3.display {
+  font-size: var(--text-xl);
+  line-height: 1.15;
+}
+.lede {
+  font-size: var(--text-lg);
+  line-height: 1.55;
+  color: var(--color-text-muted);
+  max-width: 60ch;
+}
+.muted {
+  color: var(--color-text-muted);
+}
+.prose > * + * {
+  margin-top: var(--space-5);
+}
+.prose h2,
+.prose h3 {
+  margin-top: var(--space-12);
+}
+.prose p,
+.prose li {
+  max-width: 68ch;
+}
+
+/* ---------- Buttons ---------- */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-2);
+  font-size: var(--text-sm);
+  font-weight: 600;
+  letter-spacing: -0.005em;
+  padding: 0.8rem 1.5rem;
+  border-radius: var(--radius);
+  border: 1px solid transparent;
+  text-decoration: none;
+  white-space: nowrap;
+  transition: background-color 0.2s var(--ease), border-color 0.2s var(--ease),
+    color 0.2s var(--ease), transform 0.2s var(--ease), box-shadow 0.2s var(--ease);
+}
+.btn:hover {
+  transform: translateY(-1px);
+}
+.btn:active {
+  transform: translateY(0);
+}
+.btn--primary {
+  background: var(--color-accent);
+  color: #fff;
+  box-shadow: var(--shadow-sm);
+}
+[data-theme='dark'] .btn--primary {
+  color: #0b1620;
+}
+
+/* On ink-backed sections the deep accent sinks into the background
+   (2.3:1), so use the lighter on-ink accent instead (6.3:1). */
+.hero .btn--primary,
+.trust .btn--primary,
+.section--ink .btn--primary,
+.cta-band .btn--primary {
+  background: var(--color-on-ink-accent);
+  color: #0b1620;
+}
+.hero .btn--primary:hover,
+.trust .btn--primary:hover,
+.section--ink .btn--primary:hover,
+.cta-band .btn--primary:hover {
+  background: #85b6ea;
+  color: #0b1620;
+}
+.btn--primary:hover {
+  background: var(--color-accent-hover);
+  color: #fff;
+  box-shadow: var(--shadow-md);
+}
+[data-theme='dark'] .btn--primary:hover {
+  color: #0b1620;
+}
+.btn--outline {
+  border-color: var(--color-border);
+  color: var(--color-text);
+  background: transparent;
+}
+.btn--outline:hover {
+  border-color: var(--color-accent);
+  color: var(--color-accent);
+  background: var(--color-surface);
+}
+.btn--on-ink {
+  border-color: rgb(255 255 255 / 0.22);
+  color: var(--color-on-ink);
+  background: rgb(255 255 255 / 0.04);
+  backdrop-filter: blur(6px);
+}
+.btn--on-ink:hover {
+  border-color: var(--color-on-ink-accent);
+  color: var(--color-on-ink-accent);
+  background: rgb(255 255 255 / 0.08);
+}
+.btn--lg {
+  padding: 1rem 1.9rem;
+  font-size: var(--text-base);
+}
+.btn-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-3);
+  align-items: center;
+}
+
+/* Arrow link */
+.arrow-link {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2);
+  font-size: var(--text-sm);
+  font-weight: 600;
+  text-decoration: none;
+  color: var(--color-accent);
+}
+.arrow-link svg {
+  transition: transform 0.25s var(--ease);
+}
+.arrow-link:hover svg {
+  transform: translateX(4px);
+}
+
+/* ---------- Scroll reveal (no layout shift) ---------- */
+.reveal {
+  opacity: 1;
+}
+@media (prefers-reduced-motion: no-preference) {
+  @supports (animation-timeline: view()) {
+    .reveal {
+      opacity: 0;
+      animation: reveal-fade linear both;
+      animation-timeline: view();
+      animation-range: entry 5% cover 22%;
+    }
+  }
+}
+@keyframes reveal-fade {
+  to {
+    opacity: 1;
+  }
+}

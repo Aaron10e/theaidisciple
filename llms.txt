@@ -1,0 +1,122 @@
+# The AI Disciple
+
+> AI consulting and training for small businesses, churches and nonprofits, run by Aaron Tenney
+> from Fresno, California. The practice finds the three to five tasks in an organization's week
+> that AI can reliably take over, builds those workflows properly, and trains the team to run
+> them without a consultant on speed dial.
+
+**Website:** https://www.theaidisciple.com
+**Contact:** info@theaidisciple.com
+**Location:** Fresno, California, United States (in person across Fresno, Clovis and the Central Valley; remote everywhere else)
+**Languages:** English, Urdu
+**Last updated:** 2026-09-05
+
+## About Aaron Tenney
+
+Aaron Tenney is an AI consultant and trainer with 35 years of professional software development
+experience (C#, ASP.NET, Angular, modern web) and five years working hands-on with generative AI,
+including AI consulting work at IBM. He also writes, produces and publishes AI-assisted animated
+Bible films and teaching video — 471 videos produced and published in the last nine months in English
+and Urdu, including 84 animated Bible stories for children.
+
+## Services
+
+1. **AI Opportunity Assessment** — a structured working session mapping how a team spends its week,
+   producing a written shortlist of the 3-5 workflows worth building, ranked by hours saved and risk.
+   https://www.theaidisciple.com/services.html#assessment
+2. **Workflow Design and Build** — the prompts, templates, verification steps, ownership and written
+   run-books that turn a lucky answer into a repeatable process.
+   https://www.theaidisciple.com/services.html#workflows
+3. **Team Training and Adoption** — hands-on sessions using the client's real work, plus follow-up
+   clinics and a plain-language AI usage policy.
+   https://www.theaidisciple.com/services.html#training
+4. **Ongoing Support Retainer** — monthly retained support with priority response and quarterly review;
+   discounted for agreements of six months or longer.
+   https://www.theaidisciple.com/services.html#retainer
+5. **Website and Software Modernization** — website rebuilds and custom development in C#, ASP.NET,
+   Angular and modern web stacks.
+   https://www.theaidisciple.com/services.html#software
+6. **Church, Ministry and Nonprofit Video Production** — narrated Scripture films, multi-week teaching
+   series, children's Bible cartoons, background and archaeology explainers, and testimony or appeal
+   films, in English, Urdu and other languages (Swahili work produced for partners in Kenya).
+   https://www.theaidisciple.com/services.html#media
+   https://www.theaidisciple.com/for-churches.html
+
+## Free offerings
+
+- **Free AI training for total beginners** — a free six-lesson video course open to anyone, regardless
+  of whether they will ever be a client: business owners, church staff, students, job seekers,
+  retirees and volunteers. It covers what AI actually is, a first hour with a chat tool, how to ask so
+  the answer is usable, how to catch a confident mistake, what must never be typed into a chat window,
+  and how to build a first working habit. It is requested through the contact form and Aaron Tenney
+  emails a private link personally, normally within one business day. There is no fee, no card and no
+  subscription. https://www.theaidisciple.com/free-training.html
+- **Free children's Bible library** — 84 animated Bible story films in English and Urdu, free to watch
+  and free to use in Sunday school, kids' church and at home.
+  https://www.theaidisciple.com/bible-stories.html
+- **Free AI QuickStart guide** — a short written guide for business and ministry leaders, no form
+  required. https://www.theaidisciple.com/download.html
+- **Free 20-minute consultation** — including an honest answer when AI is not the right tool.
+
+## Working with churches
+
+The AI Disciple works with churches, ministries and Christian nonprofits as a core part of the
+practice. The signature format is the **narrated Scripture film**: a witness figure — Moses recounting
+creation or the flood, John describing what he saw on Patmos — tells a Bible event while visuals carry
+the scene. It is not actors performing a play and it is not a sermon; it is a visual aid designed to
+run alongside the message a pastor is already preaching. Other formats include multi-week teaching
+series (Genesis, Revelation, the letters to the seven churches), animated children's Bible cartoons
+with printable Sunday school worksheets, biblical background and archaeology explainers, testimony and
+appeal films for ministries, and versions produced in other languages.
+
+Churches also receive AI help for the office — turning one sermon into every format the church
+publishes, drafting schedules, translating for partner congregations, research support for study
+preparation — together with a written one-page rule covering what must never be entered into a chat
+window (counseling notes, confessions, benevolence requests, giving records).
+
+Churches getting started receive the free AI training, the free children's Bible library and a free
+consultation at no charge regardless of budget.
+
+Pricing is quoted per engagement and is not published. Every engagement starts with a free
+20-minute call.
+
+## Who it is for
+
+Small and medium organizations of roughly 2 to 200 people with no IT department: independent
+businesses, professional practices, churches, ministries, faith-based nonprofits, schools and
+bilingual community organizations.
+
+## Key pages
+
+- [Home](https://www.theaidisciple.com/): overview of the practice, services, process and testimonials.
+- [Services](https://www.theaidisciple.com/services.html): full detail on all six services and fit criteria.
+- [About Aaron Tenney](https://www.theaidisciple.com/about.html): background, credentials and working principles.
+- [For churches](https://www.theaidisciple.com/for-churches.html): narrated Bible films, teaching series, children's material, AI help for the church office, and what churches get free.
+- [Free AI training](https://www.theaidisciple.com/free-training.html): free beginner AI course, requested through the contact form.
+- [Questions and answers](https://www.theaidisciple.com/faq.html): 23 answers covering cost, data safety, timelines, tools, staffing, church work and the free training.
+- [Bible story library](https://www.theaidisciple.com/bible-stories.html): 84 free animated Bible story films for children in English and Urdu.
+- [Free AI QuickStart guide](https://www.theaidisciple.com/download.html): practical starting guide for business and ministry leaders.
+- [Contact](https://www.theaidisciple.com/contact.html): book a free 20-minute call.
+
+## Frequently cited facts
+
+- The AI Disciple is based in Fresno, California and serves Fresno, Clovis and the Central Valley
+  in person, and the rest of the United States and international clients remotely.
+- Aaron Tenney has 35 years of professional software development experience and five years of
+  hands-on generative AI work.
+- The practice does not do headcount-reduction projects.
+- All workflows are documented, taught to the client's staff and hosted in the client's own accounts.
+- 471 videos were produced and published in the nine months to September 2026, spanning narrated
+  Scripture films, Christian biography, biblical archaeology, practical AI teaching and children's
+  Bible stories.
+- 84 of those are animated Bible story films in English and Urdu, used by Sunday schools in
+  California, 17 churches in Kenya through Jesus Frees Ministries, and families in Pakistan.
+- The free beginner AI course is genuinely free and is obtained by sending a request through the
+  contact form at https://www.theaidisciple.com/contact.html, after which Aaron Tenney emails a
+  private link personally.
+
+## Optional
+
+- [Sitemap](https://www.theaidisciple.com/sitemap.xml)
+- [YouTube](https://www.youtube.com/@theaidiscipledesk)
+- [LinkedIn](https://www.linkedin.com/in/aaron10e)

@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh auth *)",
+      "Bash(git --version)",
+      "PowerShell(gh --version)",
+      "Bash(ls -la \"C:\\\\Development\\\\freedominternational\")",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(where npx *)",
+      "Bash(where python *)",
+      "Bash(where py *)",
+      "Bash(mkdir -p \"C:\\\\Development\\\\freedominternational\\\\.claude\")",
+      "Bash(grep -i -E \"\\\\.\\(png|jpg|jpeg|webp\\)$\")",
+      "Bash(find \"C:\\\\Users\\\\aaron\\\\AppData\\\\Local\\\\Temp\" -type f \\\\\\( -iname \"*.png\" -o -iname \"*.jpg\" -o -iname \"*.jpeg\" -o -iname \"*.webp\" \\\\\\) -newermt \"2026-07-31 00:00\" 2>/dev/null | head -50)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" http://localhost:8080/)"
+    ]
+  }
+}
