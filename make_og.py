@@ -33,7 +33,7 @@ def brand_mark(px):
     pairing: cobalt badge, ink letters."""
     import cairosvg
     import make_logo
-    svg = make_logo.doc(make_logo.mark(make_logo.ACCENT_DARK, make_logo.KNOCK_DARK))
+    svg = make_logo.doc(make_logo.mark(make_logo.ACCENT_DARK))
     buf = io.BytesIO()
     cairosvg.svg2png(bytestring=svg.encode(), write_to=buf,
                      output_width=px, output_height=px, background_color=None)

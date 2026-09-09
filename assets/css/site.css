@@ -31,8 +31,8 @@
   flex: none;
 }
 .brand__mark {
-  width: 34px;
-  height: 34px;
+  width: 40px;
+  height: 40px;
   flex: none;
   color: var(--color-text);
 }
