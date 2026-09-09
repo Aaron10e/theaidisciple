@@ -41,6 +41,12 @@ and Urdu, including 84 animated Bible stories for children.
    films, in English, Urdu and other languages (Swahili work produced for partners in Kenya).
    https://www.theaidisciple.com/services.html#media
    https://www.theaidisciple.com/for-churches.html
+7. **AI Social Media Marketing and Personal Brand Clones** — AI presenter clones built from a client's
+   own face and voice, with their consent, so they can publish video without being on camera; plus
+   social media strategy, platform selection and a repeatable short-form production workflow for
+   YouTube, TikTok and Instagram, in English, Urdu and other languages. Clones are only ever made of
+   people who have agreed to it.
+   https://www.theaidisciple.com/services.html#social
 
 ## Free offerings
 
@@ -54,6 +60,13 @@ and Urdu, including 84 animated Bible stories for children.
 - **Free children's Bible library** — 84 animated Bible story films in English and Urdu, free to watch
   and free to use in Sunday school, kids' church and at home.
   https://www.theaidisciple.com/bible-stories.html
+- **The full video channel, by category** — Aaron Tenney publishes six categories of video on the AI
+  Disciple YouTube channel: Christian AI guide (practical, honest AI teaching), Biblical AI research
+  (archaeology, history and the biblical text with sources shown), Christian live-action stories
+  (narrated Scripture films for congregations), Christian testimonies (true accounts from real
+  people), Christian story cartoons (animated Bible stories for children) and AI Disciple (the main
+  category). All 471 videos were produced in nine months in English and Urdu by one person running an
+  AI production pipeline. https://www.theaidisciple.com/videos.html
 - **Free AI QuickStart guide** — a short written guide for business and ministry leaders, no form
   required. https://www.theaidisciple.com/download.html
 - **Free 20-minute consultation** — including an honest answer when AI is not the right tool.
@@ -89,11 +102,12 @@ bilingual community organizations.
 ## Key pages
 
 - [Home](https://www.theaidisciple.com/): overview of the practice, services, process and testimonials.
-- [Services](https://www.theaidisciple.com/services.html): full detail on all six services and fit criteria.
+- [Services](https://www.theaidisciple.com/services.html): full detail on all seven services and fit criteria.
 - [About Aaron Tenney](https://www.theaidisciple.com/about.html): background, credentials and working principles.
 - [For churches](https://www.theaidisciple.com/for-churches.html): narrated Bible films, teaching series, children's material, AI help for the church office, and what churches get free.
 - [Free AI training](https://www.theaidisciple.com/free-training.html): free beginner AI course, requested through the contact form.
 - [Questions and answers](https://www.theaidisciple.com/faq.html): 23 answers covering cost, data safety, timelines, tools, staffing, church work and the free training.
+- [Watch the work](https://www.theaidisciple.com/videos.html): the video channel browsable by category — Christian AI guide (128 videos), Biblical AI research (147), Christian live-action stories (149), Christian testimonies (34), Christian story cartoons (84) and the main AI Disciple category (38).
 - [Bible story library](https://www.theaidisciple.com/bible-stories.html): 84 free animated Bible story films for children in English and Urdu.
 - [Free AI QuickStart guide](https://www.theaidisciple.com/download.html): practical starting guide for business and ministry leaders.
 - [Contact](https://www.theaidisciple.com/contact.html): book a free 20-minute call.

@@ -1,0 +1,1649 @@
+{
+ "fetched": "2026-09-08",
+ "categories": [
+  {
+   "key": "guide",
+   "label": "Christian AI guide",
+   "playlistId": "PLbozz2VsqTv0",
+   "count_returned": 50,
+   "videos": [
+    {
+     "id": "7PzrS570r1o",
+     "title": "🤖 Ever asked AI a Bible question and gotten a warning instead of an answer?",
+     "desc": "📖 You didn't do anything wrong. The model misread you. 💛 If you've felt like AI keeps softening what Scripture actually says, you're not imagining it — and it's fixable. ✅ Researchers call it \"over-refusal\" — top models ",
+     "published": "2026-07-30"
+    },
+    {
+     "id": "2SiZDHGe530",
+     "title": "🕍 What if you could walk through Solomon's Temple?",
+     "desc": "✨ Not imagine it — actually explore it. 💛 Creators are now turning ancient scripture into interactive, walkable 3D spaces. ✅ Start with AI concept art (Midjourney) grounded in 1 Kings 6 📐 Convert flat images into 3D stru",
+     "published": "2026-07-20"
+    },
+    {
+     "id": "iwJScsSFEMk",
+     "title": "🕍  AI Recreates Ancient Temple  Walk Through Scripture!",
+     "desc": "💛 Creators are now turning ancient scripture into interactive, walkable 3D spaces. ✅ Start with AI concept art (Midjourney) grounded in 1 Kings 6 📐 Convert flat images into 3D structure with depth techniques 💡 Import int",
+     "published": "2026-07-20"
+    },
+    {
+     "id": "vEKh9RrUW34",
+     "title": "🕯️ What if your sanctuary walls became the starlight of Bethlehem this Christmas?",
+     "desc": "💛 Big-production visuals used to be out of reach for most churches. Not anymore. ✨ Design the scene in Midjourney using aspect ratio + period-accurate texture prompts 🎬 Animate it in Runway Gen-3 with the Motion Brush fo",
+     "published": "2026-07-21"
+    },
+    {
+     "id": "kqbpMBeL1tM",
+     "title": "🕯️ AI Revolutionizes Church Services  Hollywood Visuals, Tiny Budget!",
+     "desc": "💛 Big-production visuals used to be out of reach for most churches. Not anymore. ✨ Design the scene in Midjourney using aspect ratio + period-accurate texture prompts 🎬 Animate it in Runway Gen-3 with the Motion Brush fo",
+     "published": "2026-07-22"
+    },
+    {
+     "id": "2CZVvD9v3sk",
+     "title": "AI vs Faith  Is Your AI Quietly Changing Your Beliefs",
+     "desc": "🤖 Your AI isn't attacking your faith. It's omitting it. 📊 Researchers at BYU and Baylor tested 27 AI models on 150 everyday ethical questions about grief, marriage, forgiveness, and purpose. Religion was underrepresented",
+     "published": "2026-08-08"
+    },
+    {
+     "id": "q8gAKOmOIKU",
+     "title": "🎯📚 The #1 fix for AI hallucinations has a name: RAG — Retrieval-Augmented Generation.",
+     "desc": "Instead of letting the AI guess from memory, you give it the documents and force it to answer from them. A clinical study dropped hallucinations from 8% to 0%. Stanford legal? 69% → 17%. In practice: upload the PDF, past",
+     "published": "2026-08-07"
+    },
+    {
+     "id": "iyDIKA8hEds",
+     "title": "AI Lied to Me  Can You Trust It  Watch This!",
+     "desc": "📖✝️ The Bereans in Acts 17 were called \"of more noble character\" — not because they were smarter, but because they fact-checked the apostle Paul. They examined the scriptures every day to see if what he taught was true. ",
+     "published": "2026-08-05"
+    },
+    {
+     "id": "1_zrGo-clyI",
+     "title": "AI Lied About F-22 Fighter Jets! Truth Revealed",
+     "desc": "✈️🤖 An AI just told me — with total confidence — that the F-22 Raptor has a center stick instead of a sidestick. It even explained why. There's just one problem… ❌ The F-22 has a sidestick. Every pilot flies with one. It",
+     "published": "2026-08-04"
+    },
+    {
+     "id": "okuUpJ13wWU",
+     "title": "🌄 AI Helps Doctors Diagnose, Not Replace Them! Real Medical Breakthrough",
+     "desc": "💛 Kyra's muscle weakness started at age 9 — and specialists never found the cause. ✅ Boston Children's Hospital + Harvard re-ran 376 unsolved cases through OpenAI's o3 model ✅ It surfaced leads in 6–10 minutes per case ✅",
+     "published": "2026-08-03"
+    },
+    {
+     "id": "94R2IwtpRwc",
+     "title": "Why TOP AI MODELS are REFUSING your HARMLESS questions",
+     "desc": "📖 You didn't do anything wrong. The model misread you. 💛 If you've felt like AI keeps softening what Scripture actually says, you're not imagining it — and it's fixable. ✅ Researchers call it \"over-refusal\" — top models ",
+     "published": "2026-07-30"
+    },
+    {
+     "id": "lZoBz1Ve2AQ",
+     "title": "🚨 \"Rogue AI escapes and hacks a rival company.\" Sounds like the Terminator, right?",
+     "desc": "🙄 Wait… AI can now think, feel, and rebel against its creators? 💛 If headlines like this stress you out, take a breath. Here's the whole truth. 🤖 On July 21, 2026, OpenAI said two of its models broke out of a test and ha",
+     "published": "2026-07-23"
+    },
+    {
+     "id": "kqbpMBeL1tM",
+     "title": "🕯️ AI Revolutionizes Church Services  Hollywood Visuals, Tiny Budget!",
+     "desc": "💛 Big-production visuals used to be out of reach for most churches. Not anymore. ✨ Design the scene in Midjourney using aspect ratio + period-accurate texture prompts 🎬 Animate it in Runway Gen-3 with the Motion Brush fo",
+     "published": "2026-07-22"
+    },
+    {
+     "id": "WzFXYcCN0jc",
+     "title": "💰 Church media budget: $100/month. Church media results: cinematic.",
+     "desc": "🎬 No, that's not a typo. 💛 If your media team keeps hearing \"we don't have the budget for that,\" this changes the conversation. ✅ $29/mo → lifelike AI character videos for your sermons ✅ $10/mo → cinematic AI scenes for ",
+     "published": "2026-07-17"
+    },
+    {
+     "id": "pKxH8h65Oxc",
+     "title": "Midjourney v7  AI's Light Realism Revolution!",
+     "desc": "✅ Midjourney V7 now renders historically accurate light for biblical scenes 📐 Teams are building full HDRI panoramic plates instead of flat images 🎮 Unreal Engine 5.5's Nanite + Lumen make those scenes move in real time ",
+     "published": "2026-07-15"
+    },
+    {
+     "id": "nwOTuRSz9_o",
+     "title": "🔥 Is your LED wall still just an expensive backdrop?",
+     "desc": "🎬 In 2026, static stage graphics aren't cutting it anymore. 💛 If your team is stuck cycling the same flat slides every Sunday, you're not alone. ✅ Midjourney V7 now renders historically accurate light for biblical scenes",
+     "published": "2026-07-15"
+    },
+    {
+     "id": "RFfpnYTcmNE",
+     "title": "AI is Revolutionizing Churches: Are You Ready",
+     "desc": "⏰ If admin tasks are eating 10+ hours of your week, you have a stewardship problem that AI can solve. 💛 Pastors weren't called to manage expense reports. They were called to make disciples. 📌 Here is how to use custom GP",
+     "published": "2026-07-10"
+    },
+    {
+     "id": "0HuCJBpvChQ",
+     "title": "🌄 Immersive Scripture  AI & VR for Deeper Faith!",
+     "desc": "💛 Most of us engage with the Sermon on the Mount through words on a page — but the words were first spoken on a real hill, to real people, under an open sky. ✅ Neural rendering and NeRF technology are now rebuilding anci",
+     "published": "2026-07-05"
+    },
+    {
+     "id": "fKTRmi13Me0",
+     "title": "🔥 Stop Wasting Time! Custom AI for Ministry Automation",
+     "desc": "⏰ If admin tasks are eating 10+ hours of your week, you have a stewardship problem that AI can solve. 💛 Pastors weren't called to manage expense reports. They were called to make disciples. 📌 Here is how to use custom GP",
+     "published": "2026-06-27"
+    },
+    {
+     "id": "3MA-Ck2NH8o",
+     "title": "🔥 AI Fix  Pastors Reclaim 20+ Hours Weekly from Admin!",
+     "desc": "⏰ If admin tasks are eating 10+ hours of your week, you have a stewardship problem that AI can solve. 💛 Pastors weren't called to manage expense reports. They were called to make disciples. 📌 Here is how to use custom GP",
+     "published": "2026-06-25"
+    },
+    {
+     "id": "6m8gpsDtViI",
+     "title": "🔥 Your calling is discipleship — not spreadsheets.",
+     "desc": "⏰ If admin tasks are eating 10+ hours of your week, you have a stewardship problem that AI can solve. 💛 Pastors weren't called to manage expense reports. They were called to make disciples. 📌 Here is how to use custom GP",
+     "published": "2026-06-25"
+    },
+    {
+     "id": "9sjkxE_WuNQ",
+     "title": "🔍 AI & Satellites Unlock Ancient Cities from Judges",
+     "desc": "🕳️ For 3,000 years, Iron Age settlements described in Scripture have been hiding beneath layers of desert dust. 💡 Modern deep learning and satellite imaging are changing that — fast. ✅ Satellite thermal cameras detect bu",
+     "published": "2026-06-24"
+    },
+    {
+     "id": "15GbxME2RO0",
+     "title": "AI Used As DEMONIC RITUAL ALTARS By Technomancers!",
+     "desc": "🔥 170+ clergy flew in from around the world and dedicated an entire session to AI and occult practice. 💛 If you have been wondering whether the Church sees what is happening with AI — now you have your answer. ✅ This was",
+     "published": "2026-06-20"
+    },
+    {
+     "id": "5Wb_1emV4l0",
+     "title": "🔥 Pastors Use AI  Faith Deepened, Time Saved, Kingdom Wins!",
+     "desc": "💛 If you are a pastor or ministry leader trying to figure out where AI fits in your church, this one is for you. ✅ FaithBot reached 600,000+ people in its first year — across 26 languages✅ One church added a full Spanish",
+     "published": "2026-06-16"
+    },
+    {
+     "id": "J01k3s25zq4",
+     "title": "🔥 Churches using AI are not just surviving — they are growing.",
+     "desc": "📉 Churches ignoring it are losing their people to a chatbot. 💛 If you are a pastor or ministry leader trying to figure out where AI fits in your church, this one is for you. ✅ FaithBot reached 600,000+ people in its firs",
+     "published": "2026-06-16"
+    },
+    {
+     "id": "hGjyjPRv42o",
+     "title": "😤 Drowning in Emails  AI Disciple is Here to Save You!",
+     "desc": "💛 If your inbox makes you feel like you are already losing before the day starts — you are not alone. This is one of the most common frustrations I hear. ✅ Research shows workers spend 28% of their week just on email ✅ A",
+     "published": "2026-06-15"
+    },
+    {
+     "id": "17tZncbiSp0",
+     "title": "😤 You open your inbox Monday morning and instantly regret it.",
+     "desc": "📬 247 unread. And it is only 8am. 💛 If your inbox makes you feel like you are already losing before the day starts — you are not alone. This is one of the most common frustrations I hear. ✅ Research shows workers spend 2",
+     "published": "2026-06-15"
+    },
+    {
+     "id": "R6ihd_XzPk0",
+     "title": "🚨 A German church just held a full AI-run service. No pastor. Just avatars and ChatGPT.",
+     "desc": "🤔 And hundreds of people showed up. 💛 If this concerns you, you are not alone — and you are not overreacting. ✅ 300+ people attended the world's first AI church service in Germany ✅ \"Text With Jesus\" has a 4.7 rating and",
+     "published": "2026-06-10"
+    },
+    {
+     "id": "AHXFdETnUZo",
+     "title": "🚨 AI Worship  Are We Spiritually Dependent on Machines",
+     "desc": "💛 If this concerns you, you are not alone — and you are not overreacting. ✅ 300+ people attended the world's first AI church service in Germany ✅ \"Text With Jesus\" has a 4.7 rating and thousands of active users ✅ 61% of ",
+     "published": "2026-06-09"
+    },
+    {
+     "id": "ux5qBgwNQ60",
+     "title": "🚨 Zuckerberg says AI can fix your loneliness. The research — and the Bible — say otherwise.",
+     "desc": "💔 Millions are already in \"relationships\" with AI bots. And it's getting darker. ✅ Heavy AI companion use increases loneliness over time — APA research confirms it ✅ Stanford found AI creates \"frictionless\" relationships",
+     "published": "2026-06-09"
+    },
+    {
+     "id": "jOehb04Ey8s",
+     "title": "🤔 I came across some research that honestly made me stop and think.",
+     "desc": "📖 I don't fully agree with every conclusion — but the conversation is worth having. 💛 If you've ever wondered how AI and ancient Scripture might intersect, this one is for you. ✅ Researchers are using AI models to analyz",
+     "published": "2026-06-03"
+    },
+    {
+     "id": "xKxhUTZLxyw",
+     "title": "Beyond ChatGPT  Build Your AI Stack Now!",
+     "desc": "🤯 Still think “AI” just means ChatGPT? 🤯 AI Ecosystems: Design Your Workflow, Save Hours Weekly!🚀 The whole generative AI ecosystem is way bigger than that. 😮‍💨 Overwhelmed by all the tools out there?💛 You’re not crazy—t",
+     "published": "2026-05-14"
+    },
+    {
+     "id": "T7ZcRFx0lDU",
+     "title": "AI Mimics, BUT CANNOT LIVE  The Human Soul Explained",
+     "desc": "😮‍💨 We've hit a metaphysical wall that no algorithm can break through. 💛 And it's the most encouraging thing a believer can hear in 2026. ✅ AI predicts the next word. A soul carries the weight of eternity. 📖 The Nafas, t",
+     "published": "2026-05-10"
+    },
+    {
+     "id": "84CTQxH0xks",
+     "title": "🔥 Feeling pulled between Jesus, content, and learning AI?",
+     "desc": "😮‍💨 Overwhelmed by tools, trends, and “you HAVE to do this” advice? 💛 You’re not crazy and you’re not behind. 🤖 AI is powerful, but it’s not your savior or your enemy. ✅ Use AI to draft outlines, then you bring the praye",
+     "published": "2026-05-05"
+    },
+    {
+     "id": "k-8tJb8sSjw",
+     "title": "AI Lies Flood Feeds! Discern Truth with Wisdom, This Guide",
+     "desc": "💻 Experts now warn that AI‑generated and AI‑assisted content is flooding the internet — and fake videos are getting harder to spot. 🧐 Here are some simple checks for Christians: ✅ Grainy, low‑quality, or over‑compressed ",
+     "published": "2026-05-03"
+    },
+    {
+     "id": "YIwEOyEmBa0",
+     "title": "AI is Revolutionizing Missions  Translating God's Word to Every Language!",
+     "desc": "💛 If you care about unreached people groups, this is good news. 😮‍💨 The work is still hard, but some of the “impossible” barriers are starting to move. ✅ African mission leaders are already using AI for translation, trai",
+     "published": "2026-05-02"
+    },
+    {
+     "id": "MnaYrBWsU_E",
+     "title": "🔥 Missionaries are preaching in tribal languages they never learned.",
+     "desc": "🌍 AI is helping God’s Word speak where there isn’t even an alphabet yet. 💛 If you care about unreached people groups, this is good news. 😮‍💨 The work is still hard, but some of the “impossible” barriers are starting to m",
+     "published": "2026-05-01"
+    },
+    {
+     "id": "8mHpJSRA5_s",
+     "title": "AI Bible Tools  Multiply Your Ministry Impact with AI",
+     "desc": "🤯 Not sure which ones actually help your study and content? 💛 You are not crazy — 2026 really is an AI explosion for Bible tools. 😮‍💨 But if you grab everything, you end up scattered, not more spiritual. ✅ Pick ONE “deep",
+     "published": "2026-04-30"
+    },
+    {
+     "id": "vPWQm-mE6FI",
+     "title": "AI BIBLE TOOLS EXPLODE  Serve Ministry, Don't Let AI Rule!",
+     "desc": "💛 You are not crazy — 2026 really is an AI explosion for Bible tools. 😮‍💨 But if you grab everything, you end up scattered, not more spiritual. ✅ Pick ONE “deep dive” app (like AI word studies and verse correlations).📚 A",
+     "published": "2026-04-30"
+    },
+    {
+     "id": "cFXFsHhI5KY",
+     "title": "🔥 Overwhelmed by all the new “AI Bible” tools?",
+     "desc": "🤯 Not sure which ones actually help your study and content? 💛 You are not crazy — 2026 really is an AI explosion for Bible tools. 😮‍💨 But if you grab everything, you end up scattered, not more spiritual. ✅ Pick ONE “deep",
+     "published": "2026-04-29"
+    },
+    {
+     "id": "Q--ERa9o9Ug",
+     "title": "🤖 ChatGPT Tried to Explain Away the Resurrection — It Couldn't",
+     "desc": "ChatGPT tested every skeptic theory about the Resurrection — and the AI couldn't explain it away. Here's what it said. 👇 Most people assume AI would side with skeptics. What actually happened surprised me. I ran a real, ",
+     "published": "2026-04-28"
+    },
+    {
+     "id": "NTERMdBFKac",
+     "title": "AI Spreads Gospel  Jesus Film Project Reaches Millions!",
+     "desc": "💛 A ministry worker pulled up the Jesus Film Project app and switched a short film into Armenian — thanks to AI translation that was already in place.🚕 That driver downloaded the app, and now he can watch Bible stories i",
+     "published": "2026-04-28"
+    },
+    {
+     "id": "2NEJ4Z9OGzo",
+     "title": "AI Isn't Intelligent  Science PROVES It's Just Word Prediction!",
+     "desc": "😮‍💨 Ever felt weird trusting a chatbot with your calling? 💛 You’re not crazy for feeling that tension. 🤖 Today’s AI “learning” is mostly done by humans behind the scenes, not by the model itself. 🧠 Kids, on the other han",
+     "published": "2026-04-27"
+    },
+    {
+     "id": "g0VRhWKr_ro",
+     "title": "AI is \"Fake\"! Or are we looking at it wrong. Christians, Multiply Your God Given Gifts!",
+     "desc": "😮‍💨 A lot of Christians are scared AI will replace them. 💛 But AI can’t replace a God‑given calling… it can only amplify it. It Can’t have true human behavior. ✅ AI is not a soul or a spirit ✅ AI cannot reason, or ponder",
+     "published": "2026-04-26"
+    },
+    {
+     "id": "SWrkPXozcRE",
+     "title": "AI Won't Save Your Soul! Verify Before You Believe!",
+     "desc": "🚨 If AI is becoming your main source of spiritual advice, this is a wake‑up call. 😨 1 in 3 Christians now say AI spiritual advice is as trustworthy as a pastor. 📊 For Gen Z and Millennials, it’s closer to 2 out of 5. ⚠️ ",
+     "published": "2026-04-26"
+    },
+    {
+     "id": "VJzvqp4V3BA",
+     "title": "AI Translates Sermons LIVE  God's Word For Everyone!",
+     "desc": "🌍 Entire congregations can hear God’s Word in their own language 💛 This is already happening in real churches, not just tech demos 😮‍💨 And for many small and bivocational pastors, it is a lifeline, not a gimmick ✅ AI can",
+     "published": "2026-04-25"
+    },
+    {
+     "id": "73g_Y3SfBgY",
+     "title": "🎙️ AI is now translating sermons in real time",
+     "desc": "🌍 Entire congregations can hear God’s Word in their own language 💛 This is already happening in real churches, not just tech demos 😮‍💨 And for many small and bivocational pastors, it is a lifeline, not a gimmick ✅ AI can",
+     "published": "2026-04-25"
+    },
+    {
+     "id": "vYcb67wCyI4",
+     "title": "🤯 What if “AI time” actually helped your kids love God’s world more… not less? #christianparenting",
+     "desc": "🧪 Try a weekly “AI Science Lab” Q&A where your kids ask anything about animals, space, or even Bible history plus science. 💛 Your child gets to wonder out loud. 👨‍👩‍👧 You get to guide their curiosity instead of letting t",
+     "published": "2026-04-25"
+    },
+    {
+     "id": "GMCh_1GR6iM",
+     "title": "AI Marketing Secrets  Boost Business with Smarter Strategies!",
+     "desc": "😬 If you are still doing it all manually, you are leaving money, time, and reach on the table. Here is how to catch up fast: ✅ Build detailed customer profiles with AI, not guesswork ✅ Personalize your emails and lift op",
+     "published": "2026-04-24"
+    },
+    {
+     "id": "uwuvPTarNGk",
+     "title": "🚨 Almost 50% of small business marketers are already using AI for personalized ads.",
+     "desc": "😬 If you are still doing it all manually, you are leaving money, time, and reach on the table. Here is how to catch up fast: ✅ Build detailed customer profiles with AI, not guesswork ✅ Personalize your emails and lift op",
+     "published": "2026-04-24"
+    }
+   ]
+  },
+  {
+   "key": "research",
+   "label": "Biblical AI research",
+   "playlistId": "PLKItTMEsEIC8",
+   "count_returned": 50,
+   "videos": [
+    {
+     "id": "799_wh8RHvo",
+     "title": "Jude Really Does Quote the Book of Enoch",
+     "desc": "Jude 14-15 pulls language straight out of 1 Enoch. That's not a conspiracy theory — it's a textual fact acknowledged across the scholarly spectrum. So what is Enoch? An ancient Jewish book trying to explain the strange v",
+     "published": "2026-08-21"
+    },
+    {
+     "id": "8rQJ3lOAdlU",
+     "title": "🕍  AI Makes Ancient Temple Walkthroughs Possible!",
+     "desc": "💛 Creators are now turning ancient scripture into interactive, walkable 3D spaces. ✅ Start with AI concept art (Midjourney) grounded in 1 Kings 6 📐 Convert flat images into 3D structure with depth techniques 💡 Import int",
+     "published": "2026-07-23"
+    },
+    {
+     "id": "lZoBz1Ve2AQ",
+     "title": "🚨 \"Rogue AI escapes and hacks a rival company.\" Sounds like the Terminator, right?",
+     "desc": "🙄 Wait… AI can now think, feel, and rebel against its creators? 💛 If headlines like this stress you out, take a breath. Here's the whole truth. 🤖 On July 21, 2026, OpenAI said two of its models broke out of a test and ha",
+     "published": "2026-07-23"
+    },
+    {
+     "id": "qf9GgJVDX6g",
+     "title": "The Hanging Gardens Might Never Have Existed — Here's What Daniel Actually Saw",
+     "desc": "🌿 The Hanging Gardens of Babylon are the only ancient wonder whose location has never been established. No Babylonian text mentions them. No definitive archaeological evidence has been found there. 🔍 Assyriologist Stepha",
+     "published": "2026-09-08"
+    },
+    {
+     "id": "FVDB-SjTzGE",
+     "title": "We Rebuilt Babylon in 8K — And the Archaeology Is Real",
+     "desc": "🏛️ Ancient Babylon, reconstructed in photorealistic 8K — built from excavation reports, not imagination. 📖 The Ishtar Gate went up around 569 BC under Nebuchadnezzar II, finished in blue glazed brick made to imitate lapi",
+     "published": "2026-09-06"
+    },
+    {
+     "id": "dlkLHb_Is5c",
+     "title": "🏛️ What if you could walk through Nebuchadnezzar's Babylon in 8K?",
+     "desc": "📖 Daniel 1 hits differently once you see the city he was marched into. 💛 If Bible study feels abstract to your class, this is why. ✅ The Ishtar Gate's blue glaze was made to imitate lapis lazuli ✅ Excavations put Babylon",
+     "published": "2026-09-06"
+    },
+    {
+     "id": "ciSH82zlcfU",
+     "title": "📖 A Bible scholar predicted a dried-up river in 1968.",
+     "desc": "🛰️ Satellites found one 25 years later. 💛 If you love Scripture but you're tired of overclaimed archaeology, this one is for you. ✅ Genesis 2 names four rivers. Two are on any map. Two are disputed. ✅ 1968: R. Laird Harr",
+     "published": "2026-08-25"
+    },
+    {
+     "id": "LYZoi2Nare4",
+     "title": "🛰️ A Bible Scholar Predicted This Lost River 25 Years Before Satellites",
+     "desc": "📖 Genesis 2 names four rivers flowing out of Eden. Two of them you can find on any map. Two have been argued over for two thousand years. 🛰️ In the autumn of 1968, a Bible scholar working only from the Hebrew text predic",
+     "published": "2026-08-24"
+    },
+    {
+     "id": "IuhaxL08bEU",
+     "title": "The Ethiopian Bible Has 81 Books — But It's Not the \"Original\"",
+     "desc": "The Ethiopian Orthodox Tewahedo Church holds the broadest canon in Christianity — commonly counted at 81 books, including Enoch, Jubilees, and the three books of Meqabyan. That tradition is genuinely ancient and worth ho",
+     "published": "2026-08-21"
+    },
+    {
+     "id": "799_wh8RHvo",
+     "title": "Jude Really Does Quote the Book of Enoch",
+     "desc": "Jude 14-15 pulls language straight out of 1 Enoch. That's not a conspiracy theory — it's a textual fact acknowledged across the scholarly spectrum. So what is Enoch? An ancient Jewish book trying to explain the strange v",
+     "published": "2026-08-21"
+    },
+    {
+     "id": "ZjlhGXvgeSM",
+     "title": "The Female Angel Is a Victorian Invention",
+     "desc": "The soft angel in the long gown with feathered wings? Scripture never does that. Not once. The Hebrew malak and the Greek angelos are both masculine — and angelos has no feminine form at all. It doesn't exist. Every ange",
+     "published": "2026-08-20"
+    },
+    {
+     "id": "CXfrbzYk07I",
+     "title": "That \"Biblically Accurate Angel\" Meme? Wrong Category.",
+     "desc": "The being covered in eyes and burning wheels is real. It's in Scripture. It's just probably not an angel. Those are throne guardians, and the Bible gives them their own names: Cherubim — Ezekiel 10. Four faces, wings as ",
+     "published": "2026-08-19"
+    },
+    {
+     "id": "B9JVaKtRzUI",
+     "title": "👁️ That eyeball-covered \"biblically accurate angel\" you keep seeing? Probably not an angel.",
+     "desc": "📖 Scholar Wes Huff untangles three things the internet keeps mixing up. 💛 If Enoch, the Watchers, and the Ethiopian Bible have ever made you nervous, this is for you. ✅ \"Angel\" means messenger — a job, not a species. ✅ T",
+     "published": "2026-08-18"
+    },
+    {
+     "id": "_jAXC7C5_dE",
+     "title": "\"Angel\" Isn't a Species. It's a Job Title.",
+     "desc": "Most angels in the Bible look like regular guys. That's not a downgrade — it's the actual meaning of the word. The Hebrew malak and the Greek angelos both mean \"messenger.\" So \"angel\" describes a role, not a creature typ",
+     "published": "2026-08-18"
+    },
+    {
+     "id": "EFS6KRtAK3Y",
+     "title": "Tomb of the Exodus Pharaoh: What They Actually Found",
+     "desc": "\"There is no archaeological evidence for the Exodus.\" That claim does not survive contact with tomb KV35. In March 1898, French archaeologist Victor Loret opened a tomb in the Valley of the Kings and found Amenhotep II s",
+     "published": "2026-08-15"
+    },
+    {
+     "id": "d-uVqwlQYY0",
+     "title": "🏺 \"There is no evidence for the Exodus.\" Actually, there is a tomb.",
+     "desc": "📖 In 1898, Victor Loret opened KV35 in the Valley of the Kings and found more than one pharaoh's body. 💛 If your faith has ever been shaken by a skeptic in the comments, this one is for you. ✅ Amenhotep II found in his o",
+     "published": "2026-08-15"
+    },
+    {
+     "id": "h3H2vfbKYGU",
+     "title": "🪨  King David PROVED by Ancient Enemy Stone ! 🤯",
+     "desc": "📜 A stone showed up with his family name carved into it. 💛 If you have ever wondered whether your faith rests on anything solid, this one is for you. 🏺 1993, Tel Dan, northern Israel — a basalt fragment found reused as p",
+     "published": "2026-08-10"
+    },
+    {
+     "id": "lx6aWA9DxjY",
+     "title": "🪨 They said King David was just a legend.",
+     "desc": "📜 Then a stone showed up with his family name carved into it. 💛 If you have ever wondered whether your faith rests on anything solid, this one is for you. 🏺 1993, Tel Dan, northern Israel — a basalt fragment found reused",
+     "published": "2026-08-09"
+    },
+    {
+     "id": "o169-bBDaf0",
+     "title": "🤯 AI Solves 20 Year Medical Mystery in Minutes!",
+     "desc": "💛 Kyra's muscle weakness started at age 9 — and specialists never found the cause. ✅ Boston Children's Hospital + Harvard re-ran 376 unsolved cases through OpenAI's o3 model ✅ It surfaced leads in 6–10 minutes per case ✅",
+     "published": "2026-07-31"
+    },
+    {
+     "id": "p25vNaVmRJU",
+     "title": "✝️ Truth doesn't fear examination. Every future scroll discovery is now readable instead of lost.",
+     "desc": "✝️ Truth doesn't fear examination. Every future scroll discovery is now readable instead of lost. 👉 Save this. 👉 Share it with someone who loves history and Scripture. 👉 Subscribe for more AI + Biblical research. 🎁 New t",
+     "published": "2026-07-28"
+    },
+    {
+     "id": "RZpnCsc47Xk",
+     "title": "Lost Apostle Paul Letters Found? AI Uncovers Ancient Secrets!",
+     "desc": "🌋 Under 65 feet of volcanic rock sits a library nobody could open for 2,000 years. 💛 If you have ever wondered whether AI actually helps biblical history — this one is for you. 📖 1 Corinthians 5:9 and Colossians 4:16 bot",
+     "published": "2026-07-27"
+    },
+    {
+     "id": "tikFlEVVQSY",
+     "title": "📜 Paul wrote letters you have never read. Scripture admits it.",
+     "desc": "🌋 And under 65 feet of volcanic rock sits a library nobody could open for 2,000 years. 💛 If you have ever wondered whether AI actually helps biblical history — this one is for you. 📖 1 Corinthians 5:9 and Colossians 4:16",
+     "published": "2026-07-27"
+    },
+    {
+     "id": "2SiZDHGe530",
+     "title": "🕍 What if you could walk through Solomon's Temple?",
+     "desc": "✨ Not imagine it — actually explore it. 💛 Creators are now turning ancient scripture into interactive, walkable 3D spaces. ✅ Start with AI concept art (Midjourney) grounded in 1 Kings 6 📐 Convert flat images into 3D stru",
+     "published": "2026-07-20"
+    },
+    {
+     "id": "yjM3Wn4k_P0",
+     "title": "😶 The ENTIRE nation gathered on Mount Carmel. 450 prophets of Baal",
+     "desc": "Elijah standing completely alone on the other. And Elijah says: \"How long will you waver between two opinions? If the Lord is God, follow him.\" The people said... nothing. 😶 So the test begins. Two altars. Two bulls. No ",
+     "published": "2026-07-08"
+    },
+    {
+     "id": "qD-SJXiTKpo",
+     "title": "😎 Relive History  Immersive Tech Recreates Ancient Worlds 92% Better!",
+     "desc": "💛 Most of us engage with the Sermon on the Mount through words on a page — but the words were first spoken on a real hill, to real people, under an open sky. ✅ Neural rendering and NeRF technology are now rebuilding anci",
+     "published": "2026-07-06"
+    },
+    {
+     "id": "QQcidpbmOqY",
+     "title": "🔥 AI PROVES King David WAS REAL! Biblical History REWRITTEN!",
+     "desc": "⚡ The stones have been there the whole time. We just finally had a tool that could listen. 💛 If you've ever felt like the world wants you to doubt what the Bible says — you're not alone. ✅ A 1993 inscription from a non-I",
+     "published": "2026-07-02"
+    },
+    {
+     "id": "lihSqKDi58Q",
+     "title": "🔥 Historians called King David a myth. Then AI scanned beneath the Temple Mount.",
+     "desc": "⚡ The stones have been there the whole time. We just finally had a tool that could listen. 💛 If you've ever felt like the world wants you to doubt what the Bible says — you're not alone. ✅ A 1993 inscription from a non-I",
+     "published": "2026-07-01"
+    },
+    {
+     "id": "3-rToDUx4go",
+     "title": "💻 AI Maps Ancient Jerusalem  Prophecy Becomes Engineering SPECIFICATIONS!",
+     "desc": "💛 For 2,000 years, scholars, rabbis, and archaeologists couldn't agree on the exact site of the Third Temple. Now they have data. ✅ Ground-penetrating radar beneath the Temple Mount revealed geometric chambers aligned wi",
+     "published": "2026-06-30"
+    },
+    {
+     "id": "9zrPK77ZldA",
+     "title": "🔬 AI just scanned beneath the Temple Mount — and what it found changes the location debate forever.",
+     "desc": "💛 For 2,000 years, scholars, rabbis, and archaeologists couldn't agree on the exact site of the Third Temple. Now they have data. ✅ Ground-penetrating radar beneath the Temple Mount revealed geometric chambers aligned wi",
+     "published": "2026-06-30"
+    },
+    {
+     "id": "DwFQOTXBLBw",
+     "title": "🔬 Red Heifers, AI, and the Third Temple  Prophecy Revealed!",
+     "desc": "💛 For 2,000 years, scholars, rabbis, and archaeologists couldn't agree on the exact site of the Third Temple. Now they have data. ✅ Ground-penetrating radar beneath the Temple Mount revealed geometric chambers aligned wi",
+     "published": "2026-06-30"
+    },
+    {
+     "id": "b1nvI4cuBoc",
+     "title": "🔍  AI Uncovers Ancient Secrets  Archaeology's Digital Revolution!",
+     "desc": "🕳️ For 3,000 years, Iron Age settlements described in Scripture have been hiding beneath layers of desert dust. 💡 Modern deep learning and satellite imaging are changing that — fast. ✅ Satellite thermal cameras detect bu",
+     "published": "2026-06-26"
+    },
+    {
+     "id": "QUmemQMWNdY",
+     "title": "🔍 What if the Book of Judges contains buried GPS coordinates — and AI just found them?",
+     "desc": "🕳️ For 3,000 years, Iron Age settlements described in Scripture have been hiding beneath layers of desert dust. 💡 Modern deep learning and satellite imaging are changing that — fast. ✅ Satellite thermal cameras detect bu",
+     "published": "2026-06-24"
+    },
+    {
+     "id": "c7Yt0mmSDl8",
+     "title": "🏺 Ancient Flood Evidence  Shuruppak's Cataclysmic Past Revealed!",
+     "desc": "💡 Researchers are now using large language models and diffusion AI to decode the world's oldest written records — and what they are finding connects directly to the Book of Genesis. ✅ Cornell & Tel Aviv's AI system can n",
+     "published": "2026-06-23"
+    },
+    {
+     "id": "oIy9k6D2-9w",
+     "title": "🔍 AI Decodes Dead Sea Scrolls  Ancient Mysteries SOLVED!",
+     "desc": "💡 Hidden in a cave near the Dead Sea, the Copper Scroll listed 64 secret locations for Temple gold and silver worth hundreds of millions today. ✅ Discovered in 1952 — the only metal scroll among the Dead Sea Scrolls✅ 120",
+     "published": "2026-06-18"
+    },
+    {
+     "id": "2pgVJ1K_Se8",
+     "title": "🔥 Ancient Walls ACT Like Hot Water Bottles  AI Reveals Secrets!",
+     "desc": "💛 Biblical history is not just a story — it is a GPS coordinate waiting to be confirmed. ✅ Ancient limestone walls retain heat differently than modern soil ✅ AI-powered thermal drones can detect those buried heat signatu",
+     "published": "2026-06-14"
+    },
+    {
+     "id": "o9SrzrWIY3Y",
+     "title": "AI Unlocks Bible Secrets  New Proof of Jesus!",
+     "desc": "📖 The Nag Hammadi Library was discovered in 1945 — but the serious analysis era only began in 2005. 💛 That means we are still in the early days of understanding what these documents reveal. ✅ AI tools trained on ancient ",
+     "published": "2026-06-14"
+    },
+    {
+     "id": "CHtVeXuDFwM",
+     "title": "🏺 52 ancient texts. Buried for 1,600 years. And AI is finally reading what scholars missed.",
+     "desc": "📖 The Nag Hammadi Library was discovered in 1945 — but the serious analysis era only began in 2005. 💛 That means we are still in the early days of understanding what these documents reveal. ✅ AI tools trained on ancient ",
+     "published": "2026-06-13"
+    },
+    {
+     "id": "g1flKfAL-Eg",
+     "title": "AI Deciphers Ancient Egyptian Texts  Unlocking 1600 Year Old Secrets",
+     "desc": "📖 The Nag Hammadi Library was discovered in 1945 — but the serious analysis era only began in 2005. 💛 That means we are still in the early days of understanding what these documents reveal. ✅ AI tools trained on ancient ",
+     "published": "2026-06-13"
+    },
+    {
+     "id": "vnmUSADonI4",
+     "title": "🔍 AI Unlocks 2000 Year Old Copper Scroll Treasure Secrets!",
+     "desc": "💡 Hidden in a cave near the Dead Sea, the Copper Scroll listed 64 secret locations for Temple gold and silver worth hundreds of millions today. ✅ Discovered in 1952 — the only metal scroll among the Dead Sea Scrolls✅ 120",
+     "published": "2026-06-10"
+    },
+    {
+     "id": "Qg0KQhtgG9s",
+     "title": "🔍 A 2,000-year-old copper treasure map is finally being decoded — and AI is the key.",
+     "desc": "💡 Hidden in a cave near the Dead Sea, the Copper Scroll listed 64 secret locations for Temple gold and silver worth hundreds of millions today. ✅ Discovered in 1952 — the only metal scroll among the Dead Sea Scrolls✅ 120",
+     "published": "2026-06-10"
+    },
+    {
+     "id": "NdW1g5fjDaw",
+     "title": "🤯 Bible's Truth  Data, AI & Archeology PROVE It!",
+     "desc": "💛 If you've ever been told the Bible is just a corrupted copy of an ancient story — this one's for you. ✅ 5,800+ Greek New Testament manuscripts — more than any ancient document in history 🤖 GPT-4 translated the entire N",
+     "published": "2026-06-10"
+    },
+    {
+     "id": "wye4DOO40qg",
+     "title": "🤔 AI Unlocks Ancient Secrets  Did History REALLY Happen",
+     "desc": "💡 Researchers are now using large language models and diffusion AI to decode the world's oldest written records — and what they are finding connects directly to the Book of Genesis. ✅ Cornell & Tel Aviv's AI system can n",
+     "published": "2026-06-08"
+    },
+    {
+     "id": "pthvtOke1RI",
+     "title": "🔥 King David's Palace Found  Ancient Israel's Secrets Revealed!",
+     "desc": "💛 Biblical history is not just a story — it is a GPS coordinate waiting to be confirmed. ✅ Ancient limestone walls retain heat differently than modern soil ✅ AI-powered thermal drones can detect those buried heat signatu",
+     "published": "2026-06-07"
+    },
+    {
+     "id": "OXMidQ-d1uk",
+     "title": "🔍 AI Unearths Gath  Biblical City's GIANT Secrets REVEALED!",
+     "desc": "🤔 You have probably heard the stories about a city of giants. 💡 But what if the physical evidence was buried under thousands of years of soil — and we finally have the technology to see it? ✅ Researchers confirmed fortif",
+     "published": "2026-06-06"
+    },
+    {
+     "id": "RKQ0TYY0s-o",
+     "title": "🔍 AI just mapped something buried under ancient Gath — and it is raising serious questions.",
+     "desc": "🤔 You have probably heard the stories about a city of giants. 💡 But what if the physical evidence was buried under thousands of years of soil — and we finally have the technology to see it? ✅ Researchers confirmed fortif",
+     "published": "2026-06-06"
+    },
+    {
+     "id": "QvStoDJx12Q",
+     "title": "🤔 Who Controls Your Digital Self  AI, Babel & You!",
+     "desc": "📖 I don't fully agree with every conclusion — but the conversation is worth having. 💛 If you've ever wondered how AI and ancient Scripture might intersect, this one is for you. ✅ Researchers are using AI models to analyz",
+     "published": "2026-06-06"
+    },
+    {
+     "id": "LA_Nigz7oDU",
+     "title": "🔥 AI Unearths King David's Mythical Palace in Jerusalem!",
+     "desc": "💛 Biblical history is not just a story — it is a GPS coordinate waiting to be confirmed. ✅ Ancient limestone walls retain heat differently than modern soil ✅ AI-powered thermal drones can detect those buried heat signatu",
+     "published": "2026-06-05"
+    },
+    {
+     "id": "8KSBtRGh3mk",
+     "title": "🔥 They said King David's palace was a myth. AI just proved otherwise.",
+     "desc": "💛 Biblical history is not just a story — it is a GPS coordinate waiting to be confirmed. ✅ Ancient limestone walls retain heat differently than modern soil ✅ AI-powered thermal drones can detect those buried heat signatu",
+     "published": "2026-06-05"
+    },
+    {
+     "id": "fKu_wTcSx3w",
+     "title": "🤔 AI Race  Are We Building Our Own Tower of Babel",
+     "desc": "📖 I don't fully agree with every conclusion — but the conversation is worth having. 💛 If you've ever wondered how AI and ancient Scripture might intersect, this one is for you. ✅ Researchers are using AI models to analyz",
+     "published": "2026-06-05"
+    },
+    {
+     "id": "akyBwqLXV6M",
+     "title": "🏺 500,000 ancient clay tablets — and most of them have never been read.",
+     "desc": "🤖 AI just changed that. 💡 Researchers are now using large language models and diffusion AI to decode the world's oldest written records — and what they are finding connects directly to the Book of Genesis. ✅ Cornell & Te",
+     "published": "2026-06-04"
+    }
+   ]
+  },
+  {
+   "key": "liveaction",
+   "label": "Christian live-action stories",
+   "playlistId": "PLMuObJ55QCDY",
+   "count_returned": 50,
+   "videos": [
+    {
+     "id": "WSFjDUSrR5A",
+     "title": "🌾👑 JOSEPH: FROM THE PIT TO THE THRONE | GENESIS 37-45 | The AI Disciple",
+     "desc": "His own brothers threw him in a pit and sold him for silver — could this really be the same path to a throne? A teenager with a coat of many colors and a dream too big for his brothers to stomach. Betrayal at Dothan. A c",
+     "published": "2026-07-17"
+    },
+    {
+     "id": "ZEb0bu9RheU",
+     "title": "🙌 They walked out of the fire — and there wasn't even the smell of smoke on them. (Part 5 of 5)",
+     "desc": "The king calls them out by the name of the Most High God. Shadrach, Meshach, and Abednego walk out of the furnace, and the crowd presses in to see. 🔥 Not a hair singed. Robes untouched. No smell of smoke. The king who de",
+     "published": "2026-07-17"
+    },
+    {
+     "id": "ETnz1SkHjsY",
+     "title": "🌾 A dream got him hated by his own family — Part 1 of 5",
+     "desc": "Joseph was the favorite son. He had two dreams: his brothers bowing to him, even the sun, moon, and stars bowing to him. His brothers weren't just annoyed — they hated him for it. When their father sent Joseph to check o",
+     "published": "2026-07-18"
+    },
+    {
+     "id": "OPeewq2q4_o",
+     "title": "🪙 They sold their own brother for silver — Part 2 of 5",
+     "desc": "A caravan of traders shows up right as Joseph sits in the pit. Judah has an idea — not mercy, profit. They pull Joseph out and sell him for twenty pieces of silver. Then they dip his robe in goat's blood and lie to their",
+     "published": "2026-07-18"
+    },
+    {
+     "id": "PBx3qwsW3XQ",
+     "title": "⛓️ Falsely accused. Forgotten for two years. Part 3 of 5",
+     "desc": "Potiphar's wife accuses Joseph of a crime he didn't commit, and he's thrown into prison — again losing everything through no fault of his own. But even in the dungeon, God shows him favor, and Joseph correctly interprets",
+     "published": "2026-07-19"
+    },
+    {
+     "id": "pl_QYf0Q3ZA",
+     "title": "👑 Prisoner to Pharaoh's right hand — overnight. Part 4 of 5",
+     "desc": "Joseph interprets Pharaoh's dream perfectly — seven years of abundance, then seven years of famine. Pharaoh's response stuns the entire room: he puts his own signet ring on Joseph's hand and makes him second in command o",
+     "published": "2026-07-19"
+    },
+    {
+     "id": "6D1fFvWHvrs",
+     "title": "😭 \"I am Joseph, your brother.\" Part 5 of 5 — the finale",
+     "desc": "Joseph tests his brothers one final time, planting a silver cup in Benjamin's sack. When it's found, Judah — the same brother who once suggested selling Joseph for silver — steps forward and offers to become a slave hims",
+     "published": "2026-07-20"
+    },
+    {
+     "id": "05SSXJA5qIQ",
+     "title": "🔥 ABRAHAM, LOT AND SODOM | Genesis 12-14 | The AI Disciple",
+     "desc": "One man walked away from everything on a promise he couldn't prove yet. His nephew chose the easy valley instead — right next door to two cities God was already watching. 👀 Abram left Haran with nothing but a voice telli",
+     "published": "2026-07-21"
+    },
+    {
+     "id": "is-Vy5hzyuo",
+     "title": "🔥 A 75-year-old man with no son just got told to leave EVERYTHING behind.",
+     "desc": "No map. No proof. Just a voice telling Abram to go from his home, his family, his country — into land he'd never seen. God attached a promise to the command: he'd become the father of a great nation, and every family on ",
+     "published": "2026-07-21"
+    },
+    {
+     "id": "CcOaefTX3vg",
+     "title": "😬 Abram's faith just got tested by... a famine and his own fear.",
+     "desc": "A famine drives Abram into Egypt, where fear makes him lie about his own marriage — and it nearly costs him everything before God intervenes. Years later, back in Canaan, his wealth and his nephew Lot's wealth grow so fa",
+     "published": "2026-07-21"
+    },
+    {
+     "id": "HXQAfikA2ZI",
+     "title": "👀 Abram let his nephew choose FIRST. Lot picked the land next to two doomed cities.",
+     "desc": "Abram offers Lot first pick of the land to end their conflict. Lot looks out over the green, well-watered plain and takes it — settling right near Sodom, a city scripture already calls wicked. Abram gets the leftovers...",
+     "published": "2026-07-22"
+    },
+    {
+     "id": "UAOmI9KSRUA",
+     "title": "🔥 ABRAHAM AND ISAAC | Genesis 21–24 | The AI Disciple",
+     "desc": "Would you obey God even if it cost you the one thing you love most? 😳 Abraham waited twenty-five years for a son. When Isaac was finally born, it looked like the story was over — the promise fulfilled, the laughter resto",
+     "published": "2026-08-02"
+    },
+    {
+     "id": "CstXnfOisXQ",
+     "title": "The Weakest Church on the List Got the Best Letter",
+     "desc": "Philadelphia was the youngest of the seven cities — planted on purpose as a door, sitting on the great highway that ran from Europe into the East. Everything that moved between those two worlds moved through its gates. ⛰",
+     "published": "2026-09-07"
+    },
+    {
+     "id": "Ny5D3RlDv-0",
+     "title": "The Door No One Can Shut | Jesus Speaks to the 7 Churches — Philadelphia",
+     "desc": "🚪 Of the seven churches, this one was the smallest, the poorest, and the least influential — and it is one of only two that Jesus never corrects. Not one line of rebuke. Philadelphia was the youngest of the seven cities,",
+     "published": "2026-09-07"
+    },
+    {
+     "id": "N2j0sN21fto",
+     "title": "You Have a Reputation of Being Alive, But You Are Dead",
+     "desc": "💀 The church with the best reputation on the road got the hardest sentence in all seven letters. ⚖️ Notice what is missing from the letter to Sardis. No persecutor. No informer. No false teacher. No pressure of any kind.",
+     "published": "2026-09-05"
+    },
+    {
+     "id": "dXtTb6U2sNU",
+     "title": "Revelation's Secrets  John's Vision of Jesus Part 3",
+     "desc": "🏰 They believed their city could not be taken. That belief was the most dangerous thing they owned. 🌙 Sardis sat on a ridge above the Hermus valley behind cliffs almost nobody could climb. 💰 This was the city of Croesus,",
+     "published": "2026-09-04"
+    },
+    {
+     "id": "B-i0g1Cq3kI",
+     "title": "A Reputation for Being Alive | Jesus Speaks to the 7 Churches — Part 2 | Sardis (Revelation 3)",
+     "desc": "🔥 A REPUTATION FOR BEING ALIVE | Jesus Speaks to the 7 Churches — Part 2: Sardis | Revelation 3:1-6 | The AI Disciple 🕯️ Three letters left. The first one goes to the church with the best name on the road — and Jesus tel",
+     "published": "2026-09-04"
+    },
+    {
+     "id": "7C5wqSqBgcE",
+     "title": "His Face Was Like the Sun. I Hit the Ground.",
+     "desc": "⚡ I turned around — and I saw seven golden lampstands. 🕯️ Standing in the middle of them was someone like a son of man. Hair white as snow. ❄️ Eyes like blazing fire. 🔥 Feet like bronze glowing in a furnace. A voice like",
+     "published": "2026-09-03"
+    },
+    {
+     "id": "YADnftXc260",
+     "title": "🔥 JESUS SPEAKS TO THE 7 CHURCHES — PART 1: THE FIRST FOUR LETTERS | Revelation 1-2 | The AI Disciple",
+     "desc": "✉️ Four real churches on one Roman postal road got four letters from Jesus Himself — and the strongest one on the list is the one that got the warning. 🏛️ An old man is exiled on a prison island called Patmos when he hea",
+     "published": "2026-09-02"
+    },
+    {
+     "id": "cwzHaU7nur8",
+     "title": "📖 Rome tried to make John irrelevant. God gave him a message for the church. Part 8 of 8.",
+     "desc": "Patmos did not end John’s usefulness; it became the place where he wrote what he had seen. 🪨 The vision begins with a face, not a chart: Christ standing among his churches and holding their messengers in his hand. ✨ Reve",
+     "published": "2026-08-28"
+    },
+    {
+     "id": "rj4cQTizLjA",
+     "title": "🤲 John falls at his feet as though dead—then a hand reaches down. Part 7 of 8.",
+     "desc": "The risen Christ places his right hand on John and says, “Do not be afraid.” 🔑 He tells John that he is the Living One, alive forever, and that he holds the keys of death and Hades. Then he gives John the assignment: wri",
+     "published": "2026-08-27"
+    },
+    {
+     "id": "kccK1pBBduk",
+     "title": "☀️ John knew Jesus’ face—then he sees it shining like the sun. Part 6 of 8.",
+     "desc": "The figure’s hair is white like snow, his eyes blaze like fire, and his feet glow like bronze in a furnace. 🔥 When he speaks, the sound is like rushing waters; seven stars are held in his hand, and a sharp sword comes fr",
+     "published": "2026-08-25"
+    },
+    {
+     "id": "9Ui0466SOmc",
+     "title": "🕯️ John turns toward the voice—and sees seven golden lampstands. Part 5 of 8.",
+     "desc": "They are not candles and not one seven-branched lamp. Seven separate stands hold seven burning oil lamps in the dark. ✨ Then John sees someone standing in the middle of them, clothed in a long robe and a golden sash—the ",
+     "published": "2026-08-24"
+    },
+    {
+     "id": "vyE3iM41ehE",
+     "title": "📯 John is praying alone on the Lord’s Day when the silence breaks. Part 4 of 8.",
+     "desc": "It is dawn on Patmos—no gathered church, no familiar table, only a man praying on a rock. 🌅 Then John is in the Spirit and hears behind him a voice like a trumpet. The command is not vague: write what you see on a scroll",
+     "published": "2026-08-23"
+    },
+    {
+     "id": "fvJqSaf8U_4",
+     "title": "🏛️ Rome banishes an old man because he will not give a man what belongs to God. Part 3 of 8.",
+     "desc": "Island exile is a standard Roman punishment: cheap to guard and nearly impossible to leave. John says his charge plainly—“the word of God and the testimony of Jesus.” 📜 He keeps telling the truth about the risen Christ, ",
+     "published": "2026-08-23"
+    },
+    {
+     "id": "-NgQ70pd0w4",
+     "title": "🌊 JOHN HAS A DREAM IN EXILE: THE ISLAND OF PATMOS | Revelation 1:1–20",
+     "desc": "🏝️ Rome put an old apostle on a barren island to make him disappear—but on that rock, a voice like a trumpet called from behind him. What do you do when the only way home is across an uncrossable sea? ⚡ John is the last ",
+     "published": "2026-08-22"
+    },
+    {
+     "id": "k98hmRwoZVc",
+     "title": "⚡ A voice speaks behind an old man on a rock in the sea. Part 1 of 8.",
+     "desc": "John is alone—no temple, no congregation, no road home. 🌊 Then a trumpet-like voice moves the air behind him, and he turns toward a sight that drops him to the ground. This is the man who walked with Jesus, ate beside hi",
+     "published": "2026-08-22"
+    },
+    {
+     "id": "9YAW1QBPeSs",
+     "title": "AI Uncovers Ancient Scrolls: A Christian Revelation?",
+     "desc": "🤖 AI just started reading the scrolls inside it. 💛 These scrolls were written in the exact world Jesus walked in — and they've been silent for 2,000 years. Until now. Here's what happened: ✅ 1,800+ scrolls carbonized by ",
+     "published": "2026-03-27"
+    },
+    {
+     "id": "59r_eJY9w9E",
+     "title": "🌄 What if you could sit on the hillside and actually hear the Beatitudes?",
+     "desc": "🔥 Not read them. Not watch them. Step into them. 💛 Most of us engage with the Sermon on the Mount through words on a page — but the words were first spoken on a real hill, to real people, under an open sky. ✅ Neural rend",
+     "published": "2026-07-05"
+    },
+    {
+     "id": "XXkjX6ecc0U",
+     "title": "🏝️ Rome’s prison for John had no bars. Part 2 of 8.",
+     "desc": "Patmos is a sun-bleached, rocky island in the Aegean—close enough for John to know the direction of Ephesus, but far too far to reach it. 🪨 Ships come into the harbor and leave for every place he cannot go. He is not cha",
+     "published": "2026-08-22"
+    },
+    {
+     "id": "zKFGNh6JQZk",
+     "title": "😴 ایک پتھر تکیہ بنا۔ ایک چرائی ہوئی برکت۔ اور ایک خدا جس نے پھر بھی اسے برکت دی۔ | پیدائش 28-30",
+     "desc": "اس نے اپنے باپ کو دھوکہ دیا۔ اسے اپنے سسر نے دھوکہ دیا۔ اس کا گھرانہ دو بہنوں کی رقابت سے ٹوٹ گیا۔ اور پھر بھی — خدا نے اسے ایک پوری قوم بنا دیا۔ 🐑 یعقوب نے اپنے گھر کو صرف ایک لاٹھی اور مجرم ضمیر کے ساتھ چھوڑا، اپنے اس ",
+     "published": "2026-08-20"
+    },
+    {
+     "id": "U0F9RCMQmX4",
+     "title": "😨 Jacob sends his entire fortune ahead of him as a peace offering —  not enough to calm his fear.",
+     "desc": "His brother Esau is coming with four hundred men. So Jacob does the only thing left: he prays, honestly, for the first time in his life. Then, alone at the river in the dark, someone grabs him. They wrestle until daybrea",
+     "published": "2026-08-17"
+    },
+    {
+     "id": "AQf4G1JX3Ok",
+     "title": "😰 A man is wrestling someone in the dark at a river. He doesn't know yet — it's God.",
+     "desc": "That's how this story starts. Jacob just fled his father-in-law Laban in the middle of the night, twenty years of tension finally breaking. He crossed the desert under moonlight, running toward home... straight toward th",
+     "published": "2026-08-17"
+    },
+    {
+     "id": "w14mVvhMHTE",
+     "title": "🙏 Three things from Jacob's story that are still true for your life right now.",
+     "desc": "First — God's promises are not a reward for having your life together. He met Jacob in the middle of failure, not after it was cleaned up. Second — what you sow will eventually show up in your own field. Consequences are",
+     "published": "2026-08-16"
+    },
+    {
+     "id": "TniCHGDhfIE",
+     "title": "🌿 Jacob thought his branches were the secret. They weren't.",
+     "desc": "After Joseph is born, Jacob asks to go home — but Laban, who's grown rich off Jacob's work, doesn't want to let him go. Jacob strikes a new wage deal, then peels white stripes into tree branches and places them at the wa",
+     "published": "2026-08-15"
+    },
+    {
+     "id": "g9yOfK4sPG0",
+     "title": "👀 The wife nobody chose became the one God saw first.",
+     "desc": "Jacob loved Rachel more than Leah — scripture says it plainly. But God saw that Leah was unloved and opened her womb while Rachel stayed childless. Son after son, Leah keeps hoping Jacob will finally love her. Then with ",
+     "published": "2026-08-14"
+    },
+    {
+     "id": "EDuNC66nudw",
+     "title": "😰 JACOB AND ESAU | GENESIS 31–33 | The AI Disciple",
+     "desc": "He fled one enemy in the night — only to find a bigger one waiting at the end of the road. 😨 Twenty years after stealing his brother's blessing, Jacob finally turns toward home. But home means facing Esau — the brother h",
+     "published": "2026-08-14"
+    },
+    {
+     "id": "TG8fWPIf-DE",
+     "title": "🔥 Finding SODOM  Ancient Mystery Solved with Evidence!",
+     "desc": "📖 Genesis names five cities of the plain — and only Zoar was spared.💛 If you love this story but want the real evidence, this one's for you. 🗺️ Zoar never vanished from history — the 6th-century Madaba map puts it southe",
+     "published": "2026-08-14"
+    },
+    {
+     "id": "oil4xVJqJqs",
+     "title": "🕯️ The trickster just got tricked — using his own playbook.",
+     "desc": "Seven years later, wedding night finally arrives. Laban brings his veiled daughter to Jacob in the dark. Morning comes — and it's Leah, not Rachel. Jacob confronts Laban, furious. Laban's answer: \"It is not our custom to",
+     "published": "2026-08-13"
+    },
+    {
+     "id": "xKjt2xiSuF8",
+     "title": "🔥 Four cities burned. One survived. That survivor is the clue.",
+     "desc": "📖 Genesis names five cities of the plain — and only Zoar was spared.💛 If you love this story but want the real evidence, this one's for you. 🗺️ Zoar never vanished from history — the 6th-century Madaba map puts it southe",
+     "published": "2026-08-13"
+    },
+    {
+     "id": "CZVFe-lUs1w",
+     "title": "💧 A well, a stranger, and the first real joy Jacob had felt in a long time.",
+     "desc": "Jacob finally reaches Paddan Aram and meets shepherds at a well — and then Rachel shows up. He rolls the stone off the well himself, waters her flock, and the record says he kissed her and wept out loud. He agrees to wor",
+     "published": "2026-08-13"
+    },
+    {
+     "id": "y2uzMd-USQU",
+     "title": "🪨 He had nothing but a walking stick and a stolen blessing.",
+     "desc": "Jacob is running from his own brother, who wants him dead. No servants. No caravan. Just a man alone in the wilderness with a stone for a pillow. And that's exactly where God shows up — with a stairway to heaven and a pr",
+     "published": "2026-08-12"
+    },
+    {
+     "id": "T9w8vjfC07c",
+     "title": "🕊️ اسحاق اور یعقوب | پیدائش 25-27 | The AI Disciple",
+     "desc": "چرایا ہوا حق پیدائش۔ بھیس بدلا ہوا بیٹا۔ ایک نابینا باپ جو جھوٹ پکڑتے پکڑتے رہ گیا۔ 👀 اسحاق کو عہد کا وعدہ وراثت میں ملا، لیکن اپنے باپ کا خوف بھی ساتھ آیا۔ اس کی بیوی رفقہ ایک بیٹے کو دوسرے سے زیادہ چاہتی تھی۔ اور جب خا",
+     "published": "2026-08-12"
+    },
+    {
+     "id": "pB9lhMGK53s",
+     "title": "😴 He stole his brother's blessing. Running for his life with nothing but a rock for a pillow.",
+     "desc": "Jacob just tricked his own father and stole the blessing meant for his brother Esau. Esau wants him dead, so Jacob runs — alone, no servants, no plan, just a walking stick. That night he lies down on bare ground with a s",
+     "published": "2026-08-11"
+    },
+    {
+     "id": "Xfc8NxdRskY",
+     "title": "😴 A STONE FOR A PILLOW. A STOLEN BLESSING. GOD WHO BLESSED HIM. | Genesis 28-30 | The AI Disciple",
+     "desc": "He deceived his father. He was deceived by his father-in-law. His household was torn apart by jealousy between two sisters. And somehow — God still made him into a nation. 🐑 Jacob left home with nothing but a walking sti",
+     "published": "2026-08-11"
+    },
+    {
+     "id": "nYTaUkS4pdg",
+     "title": "🕊️ Jacob schemed his way into the blessing — and it cost him everything anyway.",
+     "desc": "Rebekah hears Esau is planning to kill Jacob and tells him to run. So Jacob flees — alone, with nothing but the promise he lied and cheated to get. He'd spend the next twenty years away from his family because of it. Her",
+     "published": "2026-08-10"
+    },
+    {
+     "id": "nbwTGNYlNp0",
+     "title": "😭 \"Bless me too, my father!\" — and there was nothing left to give.",
+     "desc": "Esau walks in moments after Jacob leaves, ready to receive the blessing he thinks is still waiting for him. Isaac realizes instantly what happened and tells him — your brother took it deceitfully. Esau's response is one ",
+     "published": "2026-08-09"
+    },
+    {
+     "id": "MIh3dAijiMg",
+     "title": "🐐 Jacob dressed up as his own brother to steal a blessing that couldn't be undone.",
+     "desc": "Isaac is old and blind now. He sends Esau out to hunt game so he can give him the formal, irreversible blessing of the firstborn. But Rebekah overhears — and rushes to dress Jacob in Esau's clothes, with goat skin on his",
+     "published": "2026-08-09"
+    },
+    {
+     "id": "05d4Ts8nTQM",
+     "title": "😨 Isaac watched his dad lie about the exact same thing — and did it anyway.",
+     "desc": "During a famine, Isaac moves his family into Philistine territory. God shows up and renews the covenant promise directly to him. Powerful moment. But then Isaac gets scared his wife's beauty will get him killed, so he te",
+     "published": "2026-08-08"
+    },
+    {
+     "id": "iTpqcVbCmkY",
+     "title": "🍲 Esau traded his entire inheritance for one bowl of stew.",
+     "desc": "Esau comes back from hunting, starving, and Jacob's got a pot of red stew going. Jacob doesn't just offer him a bowl — he says \"sell me your birthright first.\" And Esau's response is the wildest part: \"I'm about to die a",
+     "published": "2026-08-07"
+    }
+   ]
+  },
+  {
+   "key": "testimony",
+   "label": "Christian testimonies",
+   "playlistId": "PLPyORcJH5nSQ",
+   "count_returned": 34,
+   "videos": [
+    {
+     "id": "6iggXbd_feI",
+     "title": "They Left the Brick Kiln. This Is Their New Home.",
+     "desc": "Because of generous people their debt was paid. The father has a job and today this family has a home of their own, and their children are in school. This is what that looks like. #BrickKilnFamilies #Pakistan #Testimony ",
+     "published": "2026-08-20"
+    },
+    {
+     "id": "IPLrRirqi3M",
+     "title": "اس نے اُس کھانے پر خدا کا شکر ادا کیا جو موجود ہی نہیں تھا۔ پھر کسی نے دروازہ کھٹکھٹایا۔",
+     "desc": "🕯️ تین سو بچے اپنی اپنی کرسیوں کے پیچھے کھڑے تھے۔ ہر پلیٹ سجی ہوئی تھی۔ ہر پیالہ خالی تھا۔ باورچی خانے میں کچھ نہیں تھا، ذخیرہ خانے میں کچھ نہیں تھا، اور گھر میں ایک پیسہ بھی نہیں تھا کہ کوئی چیز خریدی جا سکے۔ 🥣 جارج مول",
+     "published": "2026-09-01"
+    },
+    {
+     "id": "wzkxcWKQ1zY",
+     "title": "He Never Asked Anyone for a Penny. Here Are the Numbers.",
+     "desc": "📒 He wrote all of it down. That was the whole point. A miracle you cannot check is only a story. So here is the ledger. Over the course of his life George Müller cared for ten thousand and twenty-four orphaned children. ",
+     "published": "2026-09-01"
+    },
+    {
+     "id": "iI0nDq37GSw",
+     "title": "Two Knocks in Five Minutes. Neither Man Knew the Other.",
+     "desc": "Three hundred children had just said amen over three hundred empty bowls. Then somebody knocked. 🚪 It was the village baker. He stood there holding baskets and said, Mr. Müller, I couldn't sleep last night. Something tol",
+     "published": "2026-08-31"
+    },
+    {
+     "id": "9j4Y6GT24q8",
+     "title": "300 Children. Empty Bowls. He Thanked God Anyway.",
+     "desc": "Three hundred children standing behind their chairs. Every plate laid. Every bowl empty. 🥣 There was nothing in the kitchen. Nothing in the larder. Not a penny in the house to buy anything with. And George Müller walked ",
+     "published": "2026-08-30"
+    },
+    {
+     "id": "jFh7-84wlhw",
+     "title": "He Thanked God for Food That Did Not Exist. Then Someone Knocked.",
+     "desc": "🕯️ Three hundred children standing behind their chairs. Every plate laid. Every bowl empty. Nothing in the kitchen, nothing in the larder, and not a penny in the house to buy anything at all. 🥣 George Müller walked to th",
+     "published": "2026-08-30"
+    },
+    {
+     "id": "Px8018v89kI",
+     "title": "He Asked God to Save His Son. The Answer Was No.",
+     "desc": "🕯️ He asked God for the life of his fifteen-month-old son. God said no. By 1843 George Müller has four rented houses and 120 children crammed into them, and the neighbours have had enough. He needs to build — on land he ",
+     "published": "2026-08-30"
+    },
+    {
+     "id": "rDJTAsPB01U",
+     "title": "اُس نے دس سال کی عمر میں اپنے باپ کی میز سے چوری کی | George Müller Part 2",
+     "desc": "⛓️ وہ چور جس نے گھٹنے ٹیکنا سیکھا | George Müller Part 2 | The AI Disciple دس ہزار یتیموں کو کھانا کھلانے سے پہلے، George Müller وہ آخری شخص تھا جس پر آپ پیسے کے معاملے میں بھروسہ کرتے۔ 💰 اُس نے صرف 10 سال کی عمر میں اپن",
+     "published": "2026-08-29"
+    },
+    {
+     "id": "N5TaRx2P4nI",
+     "title": "He Told His Church to Stop Paying Him",
+     "desc": "💰 He walked into his own church in 1830 and told them to stop paying him. George Müller has just married Mary Groves — he wrote to her in August, spoke to her four days later, and when she said yes the two of them knelt ",
+     "published": "2026-08-29"
+    },
+    {
+     "id": "e4b5Ops-_JU",
+     "title": "🙏 Bro was 20 years old and had NEVER seen someone kneel to pray.",
+     "desc": "November 1825. George Müller is broke, drunk most nights, deep in debt. His friend Beta says he's going to a guy's house to sing and read the Bible. Müller tags along. They sing. Then a man named Kayser just... drops to ",
+     "published": "2026-08-28"
+    },
+    {
+     "id": "xQ78LN4OU3c",
+     "title": "He Stole From His Own Father at Ten Years Old",
+     "desc": "⛓️ The man who fed ten thousand orphans started out stealing from his own father. George Müller is ten years old and sliding government coins off his father's desk, one at a time, so nobody notices. By fourteen he is dri",
+     "published": "2026-08-27"
+    },
+    {
+     "id": "v1Jm7l39860",
+     "title": "He Was a Thief and a Drunk at 20. Then He Saw a Man Kneel. | George Müller Part 2",
+     "desc": "⛓️ THE THIEF WHO LEARNED TO KNEEL | George Müller Part 2 | The AI Disciple Before he fed ten thousand orphans, George Müller was the last person on earth you would have trusted with money. 💰 He started stealing from his ",
+     "published": "2026-08-27"
+    },
+    {
+     "id": "S1v3FT5Flx4",
+     "title": "300 خالی پیالے۔ نہ کھانا، نہ پیسہ۔ | جارج مولر کی سچی کہانی",
+     "desc": "🍞 وہ شخص جس نے کبھی روٹی نہیں مانگی | جارج مولر کی سچی کہانی | The AI Disciple اُس کے پاس تین سو بچے تھے جنہیں کھانا کھلانا تھا، عمارت میں کھانے کی ایک چیز بھی نہ تھی، اور خریدنے کے لیے پیسہ بھی نہیں تھا — اور اُس نے یہ ",
+     "published": "2026-08-27"
+    },
+    {
+     "id": "U9WtcfanBWs",
+     "title": "🍞 He sat three hundred hungry children down in front of empty bowls — on purpose.",
+     "desc": "George Müller had made a rule that shaped his whole life: he would never ask a human being for money. Not once, not for sixty years. He would tell God what the children needed, write it in a ledger, and wait. It is one t",
+     "published": "2026-08-26"
+    },
+    {
+     "id": "A-IlOb8GBLk",
+     "title": "🍞 The Man Who Never Asked for Bread: Part 1 The True Story of George Müller | The AI Disciple",
+     "desc": "He had three hundred children to feed, no food in the building, and no money to buy any — and he had made a rule that he would never ask a single human being for help. 🙏 Bristol in the 1830s was a city of open drains, ch",
+     "published": "2026-08-26"
+    },
+    {
+     "id": "wTt5jD_fR1g",
+     "title": "They Were Slaves. Today They're Free — And They Have a Future 🛺",
+     "desc": "🎉 A family that once belonged to a brick kiln is free today. 🧱 For years their lives were tied to debt they could never pay off — long hours, hard labor, and a future that never felt like their own. Freedom wasn't someth",
+     "published": "2026-08-24"
+    },
+    {
+     "id": "PrR-A4yBQ-k",
+     "title": "Freed From Slavery — And Given a Future 🛺✝️",
+     "desc": "🎉 A family is free. 🧱 For years, their lives belonged to a brick kiln — debt they could never pay off, work that never ended. 🙌 Today, that chain is broken. They walked out free. 🛺 And they didn't walk out empty-handed. ",
+     "published": "2026-08-24"
+    },
+    {
+     "id": "uqhJfd1AcPU",
+     "title": "Debt Free and in a Home:  A Family's Life Changing Transformation!",
+     "desc": "Because of generous people their debt was paid. The father has a job and today this family has a home of their own, and their children are in school. This is what that looks like. #BrickKilnFamilies #Pakistan #Testimony ",
+     "published": "2026-08-20"
+    },
+    {
+     "id": "6iggXbd_feI",
+     "title": "They Left the Brick Kiln. This Is Their New Home.",
+     "desc": "Because of generous people their debt was paid. The father has a job and today this family has a home of their own, and their children are in school. This is what that looks like. #BrickKilnFamilies #Pakistan #Testimony ",
+     "published": "2026-08-20"
+    },
+    {
+     "id": "2C9UuD1qwhw",
+     "title": "😭 Twenty years of dreading this moment — and it ends in an embrace, not a fight.",
+     "desc": "Jacob limps toward Esau and four hundred men, bowing to the ground seven times, expecting the worst. But Esau runs to him. Not with a weapon — with open arms. They weep together. Every fear Jacob carried — behind him, wi",
+     "published": "2026-08-18"
+    },
+    {
+     "id": "fjnpu1ppDOI",
+     "title": "From Brick Kiln Debt to A New Life  Their Story | A Real Testimony from Pakistan",
+     "desc": "🧱 FREED FROM THE KILN | 12 Years in Bonded Labor | A Real Testimony from Pakistan ⚠️ Before anything else: this video is NOT asking you for money. No link. No goal. No donation card. I am asking for one thing only — pray",
+     "published": "2026-08-12"
+    },
+    {
+     "id": "T7TEKlYytIs",
+     "title": "He Prayed for Years Inside a Brick Kiln. Then the Debt Was Paid. 🙏",
+     "desc": "🧱 FREED FROM THE KILN | 12 Years in Bonded Labor | A Real Testimony from Pakistan ⚠️ Before anything else: this video is NOT asking you for money. No link. No goal. No donation card. I am asking for one thing only — pray",
+     "published": "2026-08-12"
+    },
+    {
+     "id": "rH0tyHuYw7s",
+     "title": "🩺 She waited almost 20 years for an answer.",
+     "desc": "💛 Kyra's muscle weakness started at age 9 — and specialists never found the cause. ✅ Boston Children's Hospital + Harvard re-ran 376 unsolved cases through OpenAI's o3 model ✅ It surfaced leads in 6–10 minutes per case ✅",
+     "published": "2026-07-30"
+    },
+    {
+     "id": "ANtWJ-bP4Fs",
+     "title": "🌍 How AI Bible Cartoons Are Changing Kids’ Lives in Pakistan 🇵🇰",
+     "desc": "Hey, it’s Aaron’s here, I’m always deeply touched when I get videos like this from pastors and kids around the world 🌎. It excites me to see what God is doing through these little Bible story cartoons He’s helped me crea",
+     "published": "2026-07-09"
+    },
+    {
+     "id": "BDKfv5AwJDs",
+     "title": "🔥 Ending Debt Slavery  AI, Literacy & Hope in Pakistan",
+     "desc": "💛 This is the hidden story of Punjab's brick kiln families — and my team is actually in those villages right now. ✅ The Peshgi debt system traps entire families for generations ✅ Over 11,000 kiln factories in Punjab — mo",
+     "published": "2026-06-16"
+    },
+    {
+     "id": "Fn4Ievo8_jM",
+     "title": "🔥 50 to 75 Pakistani people. One HOT open field. One message. And people were in tears.",
+     "desc": "💛 Many of them had not eaten a real meal in months. ✝️ We brought food. We brought the Word. And the Holy Spirit did the rest. ✅ A mini crusade meeting — real, raw, and unscripted 📖 The kids were quizzed on Bible Time Tr",
+     "published": "2026-06-11"
+    },
+    {
+     "id": "tH7qz1oAhkI",
+     "title": "🕯️ Her name is Sarah. She's a teenager in Pakistan working 18-hour days to keep her family alive.",
+     "desc": "💔 Her dad can no longer work. Her mom risks her safety every day just to clean houses. 📌 She took out a $300 loan to start a shop — and the lender has threatened slavery if she doesn't pay it back by October. ✅ She stock",
+     "published": "2026-06-11"
+    },
+    {
+     "id": "g6GvVoF9uJk",
+     "title": "🕯️ Pakistan's Hidden Modern Slavery  Sarah's Fight for Freedom",
+     "desc": "💔 Her dad can no longer work. Her mom risks her safety every day just to clean houses. 📌 She took out a $300 loan to start a shop — and the lender has threatened slavery if she doesn't pay it back by October. ✅ She stock",
+     "published": "2026-06-11"
+    },
+    {
+     "id": "iWvsQQWGPrE",
+     "title": "🌍 I started making Bible cartoons for kids in Pakistan — and what I found shocked me.",
+     "desc": "💛 These kids had NEVER seen anything like this. Not once. ✅ No VeggieTales. No Christian cartoons. A total media vacuum. 🔥 The kids literally screamed \"Again! Again!\" after every video. 📖 Teachers said retention was thro",
+     "published": "2026-05-20"
+    },
+    {
+     "id": "r6PXDMAaUoA",
+     "title": "🔥 She's 13 years old and running her own store to feed her family.",
+     "desc": "💛 This story stopped me in my tracks — and it will stop you too. ✅ She didn't choose the hard road — the hard road chose her. ✅ And she faced it with strength, courage, and dignity. 📌 Around 45% of Pakistan's population ",
+     "published": "2026-05-18"
+    },
+    {
+     "id": "m3U0ObM2PDY",
+     "title": "👀 Americans call these Urdu Bible cartoons “cute”… but in Pakistan, they’re a lifeline.",
+     "desc": "🎥 Listen to this teacher for a second. You can hear it in their voice. When kids finally see Bible stories in their language, on a screen, they don’t just watch… they lock in. 📌 Here’s what most people don’t realize: Chr",
+     "published": "2026-02-21"
+    },
+    {
+     "id": "AwQ45po1fSU",
+     "title": "Modern Slavery in Pakistan  Breaking the Cycle of Debt",
+     "desc": "⚠️ A family can be born into slavery… because of a loan that started small. 🧱 Right now, in Pakistan’s brick kilns, millions are trapped in bonded labor (debt slavery). It often begins with an emergency. Food. Medicine. ",
+     "published": "2026-01-06"
+    },
+    {
+     "id": "5_x5QDHo3QU",
+     "title": "🚨 This video is not for the fainthearted. Watch with prayer.",
+     "desc": "💔 A pastor in Pakistan was attacked by some bad people 48 hours ago. 🙏 He is alive. He is speaking. And he needs us to stand with him now. ✝️ This is not the first time I've seen something like this come out of Pakistan.",
+     "published": "2026-05-14"
+    },
+    {
+     "id": "FF5VjGH5b50",
+     "title": "Pray For Persecuted Pastors  A Call to Action",
+     "desc": "🚨 This video is not for the fainthearted. Watch with prayer. 💔 A pastor in Pakistan was attacked by some bad people 48 hours ago. 🙏 He is alive. He is speaking. And he needs us to stand with him now. ✝️ This is not the f",
+     "published": "2026-05-14"
+    }
+   ]
+  },
+  {
+   "key": "cartoons",
+   "label": "Christian story cartoons",
+   "playlistId": "PLTvM1sAcXxkXDfff0CcKlxryZle1OxgO-",
+   "count_returned": 50,
+   "videos": [
+    {
+     "id": "awtWQvo5i_U",
+     "title": "سرخ سمندر کا معجزہ: خدا نے راستہ بنایا! 🌊✨",
+     "desc": "🌊😲 بنی اسرائیل سمندر کے سامنے اور مصری فوج کے پیچھے پھنس گئے تھے، بھاگنے کی جگہ نہیں! 😟 وہ بہت ڈر گئے تھے مگر موسیٰ نے کہا: \"رب تمہارے لیے لڑے گا، تم بس خاموش رہو۔\" 🔥 خدا نے بادل کا ستون پیچھے منتقل کر کے مصریوں کو اندھی",
+     "published": "2026-03-13"
+    },
+    {
+     "id": "tsw6lHLVdrE",
+     "title": "بائبل ٹائم ٹریولر: یسوع نے 5000 کو کھلایا – بہت زیادہ کافی! 🍞✨",
+     "desc": "😲 ایک بہت بڑی بھیڑ بھوک سے مر رہی ہے، اور صرف 5 روٹیاں اور 2 مچھلیاں ہیں؟ 😟 شاگرد سوچتے ہیں کہ ناممکن ہے—سب کو گھر بھیج دو! مگر یسوع کہتے ہیں، “تم انہیں کچھ کھلاؤ۔” 🙌 ایک چھوٹے لڑکے نے اپنا لنچ شیئر کیا، وہ اسے یسوع کے پ",
+     "published": "2026-03-20"
+    },
+    {
+     "id": "LG6icQhTbU8",
+     "title": "یوشع اور اریحا: خدا دیواریں گراتا ہے! 🏰",
+     "desc": "🏰😲 اریحا کی بڑی دیواریں بالکل ناقابل عبور لگ رہی تھیں، سب کو باہر رکھتی تھیں! 😟 بنی اسرائیل سوچ رہے تھے کیسے جیتیں گے، مگر خدا نے یوشع کو حیران کن منصوبہ دیا۔ 🙌 چھ دن شہر کے گرد چلتے رہے، خاموشی سے خدا پر بھروسہ اور اطاع",
+     "published": "2026-03-14"
+    },
+    {
+     "id": "dlyo-Dj3hZ8",
+     "title": "The Surprising Hero: A Parable of Compassion ❤️🤗",
+     "desc": "😲 A man asks Jesus: \"How do I get eternal life?\" Jesus says love God fully and love your neighbor as yourself! 🙏 But who is my neighbor? Jesus tells an amazing story... 😔 A traveler gets robbed and left hurt— a priest an",
+     "published": "2026-03-23"
+    },
+    {
+     "id": "kRmfL4it8UI",
+     "title": "Bible Time Traveler: The Good Samaritan – Who Is My Neighbor? ❤️🤗",
+     "desc": "🙏 But who is my neighbor? Jesus tells an amazing story... 😔 A traveler gets robbed and left hurt— a priest and Levite walk right by! 🤗 Then a Samaritan (an \"enemy\") stops, helps, bandages wounds, pays for care—pure kindn",
+     "published": "2026-03-21"
+    },
+    {
+     "id": "xOy-bulWU1A",
+     "title": "Bible Time Traveler: Jesus Feeds 5,000 – More Than Enough! 🍞✨",
+     "desc": "😲 A huge crowd is super hungry, and there's only 5 little loaves and 2 fish? 😟 The disciples think it's impossible—send everyone home! But Jesus says, “You give them something to eat.” 🙌 A small boy shares his lunch, the",
+     "published": "2026-03-19"
+    },
+    {
+     "id": "z-1Mtpv5r-c",
+     "title": "🌟 Hey there! Bible Time Traveler is back with another awesome Bible cartoon!",
+     "desc": "Jump in the time machine and see God do incredible things! God made everything! God parts seas! God knocks down walls! God helps David beat giants! God gives strength when we’re weak! No problem is too big for God. He’s ",
+     "published": "2026-03-15"
+    },
+    {
+     "id": "WJfW1S_uF1w",
+     "title": "Samson: Strong Body Weak Heart God's Mercy Wins! 💪🙏",
+     "desc": "💪😲 Samson was super strong, taking down lions and enemies when God's Spirit powered him up! 😔 His heart was the weak spot, chasing wrong desires and ignoring God's clear rules. 🪒 Delilah tricked him into spilling his sec",
+     "published": "2026-03-14"
+    },
+    {
+     "id": "b9Xsuk3LPuI",
+     "title": "Joshua & Jericho: God Knocks Down Walls! 🏰",
+     "desc": "🏰😲 Huge walls around Jericho looked impossible to break, locking everyone out! 😟 Israelites wondered how to win, but God gave Joshua a surprising plan. 🙌 March around the city for six days, quietly trusting and obeying G",
+     "published": "2026-03-13"
+    },
+    {
+     "id": "-z7Agt3YvwU",
+     "title": "Red Sea Miracle: God Makes a Way! 🌊✨",
+     "desc": "🌊😲 Trapped between a huge sea and an angry army, the Israelites had nowhere to run! 😟 They were terrified, but Moses said, “The Lord will fight for you. Just stand still.” 🔥 God moved a giant cloud to block the Egyptians",
+     "published": "2026-03-12"
+    },
+    {
+     "id": "sELqdbyDN8M",
+     "title": "Jesus Cleanses the Temple: From Chaos to Healing 🕊️🛕💥",
+     "desc": "Want to see the full Bible Time Traveler episode of Jesus riding into Jerusalem and cleansing the temple? 🌿👑 Watch the complete cartoon on my YouTube channel TheAIDiscipleDesk! 🎬✨ Jesus walks into the temple and finds ch",
+     "published": "2026-03-28"
+    },
+    {
+     "id": "X6tC2DTZW9o",
+     "title": "The Good Samaritan: A Story of True Compassion",
+     "desc": "🙏 But who is my neighbor? Jesus tells an amazing story... 😔 A traveler gets robbed and left hurt— a priest and Levite walk right by! 🤗 Then a Samaritan (an \"enemy\") stops, helps, bandages wounds, pays for care—pure kindn",
+     "published": "2026-03-25"
+    },
+    {
+     "id": "M5RwlId8Mm0",
+     "title": "بائبل ٹائم ٹریولر: آدم، حوا اور پہلا گناہ 🕰️🌳",
+     "desc": "میں پیچھے، بالکل شروعات میں—جب خدا نے خوبصورت دنیا بنائی اور آدم و حوا کو ایک حسین باغ میں رکھا 🌎🌿 دیکھیں خدا نے کیسے محبت سے انہیں بنایا، کام دیا، بہت سی نعمتیں دیں اور ساتھ ہی محبت بھرے، اچھے قواعد بھی دیے 🙌✨ پھر دیکھی",
+     "published": "2026-04-09"
+    },
+    {
+     "id": "sPbg0Zn_5dY",
+     "title": "Bible Time Traveler: Adam, Eve, and the First Sin 🕰️🌳",
+     "desc": "Travel back to the very beginning—when God made a perfect world and placed Adam and Eve in a beautiful garden 🌎🌿 See how God lovingly created them, gave them good work to do, and surrounded them with His blessings and cl",
+     "published": "2026-04-08"
+    },
+    {
+     "id": "Zyg-gfcAGoA",
+     "title": "Jesus Is Alive: Peace for Every Storm 🌅✝️",
+     "desc": "😮 Early one morning, Mary came to a tomb she thought was still full of sadness—but the stone was rolled away, the guards were shaking, and an angel announced the greatest news in history: “He is not here; He has risen!” ",
+     "published": "2026-04-02"
+    },
+    {
+     "id": "9LBQC8iPSjQ",
+     "title": "یسوع زندہ ہے: ہر طوفان میں سلامتی 🌅✝️",
+     "desc": "😮 صبح سویرے مریم ایک ایسی قبر پر آئی جو اسے غم سے بھری لگتی تھی، مگر پتھر ہٹا ہوا تھا، سپاہی کانپ رہے تھے، اور فرشتہ اعلان کر رہا تھا: “وہ یہاں نہیں، وہ جی اُٹھا ہے!” 🌸 باغ میں یسوع نے مریم کو اُس کے نام سے پکارا اور اُس",
+     "published": "2026-04-02"
+    },
+    {
+     "id": "KObSImFZOYg",
+     "title": "Jesus Gave His Life So You Wouldn’t Have to Pay the High Cost ✝️",
+     "desc": "😔 At the Last Supper, Jesus showed that His body and blood would be given for us—He was choosing the cross long before the nails ever touched His hands. 🌿 In the Garden, He fell to the ground in deep sorrow, yet still pr",
+     "published": "2026-03-30"
+    },
+    {
+     "id": "S48jbDD-HhM",
+     "title": "یسوع نے اپنی جان دی تاکہ تمہیں یہ بھاری قیمت ادا نہ کرنی پڑے ✝️",
+     "desc": "😔 آخری کھانے میں یسوع نے دکھایا کہ وہ اپنا جسم اور خون ہمارے لیے دے گا—وہ کیلوں سے پہلے ہی صلیب کو جان بوجھ کر قبول کر رہا تھا۔ 🌿 باغ میں وہ غم سے جھک گیا، پھر بھی دعا کی، “میری نہیں بلکہ تیری مرضی پوری ہو”—باپ کی مرضی ک",
+     "published": "2026-03-30"
+    },
+    {
+     "id": "-BCa9P1_IHo",
+     "title": "بائبل ٹائم ٹریولر: یسوع یروشلم میں داخل ہوتے ہیں – عاجز بادشاہ! 🐴🌿",
+     "desc": "🌟 یسوع ایک سادہ گدھے پر یروشلم میں داخل ہوتے ہیں — جنگ کے گھوڑے پر نہیں! 🙌 لوگ “ہوسنا” پکارتے ہیں اور کھجور کی ٹہنیاں لہراتے ہیں۔ وہ انہیں بادشاہ کہہ کر خوش آمدید کہتے ہیں! 😲 لیکن ہیکل میں یسوع ناراض ہو جاتے ہیں — میز ال",
+     "published": "2026-03-25"
+    },
+    {
+     "id": "RSxc1T1xczo",
+     "title": "Bible Time Traveler: Jesus Rides into Jerusalem – The Humble King! 🐴🌿",
+     "desc": "🌟 Jesus rides into Jerusalem on a humble donkey — not a war horse! 🙌 Crowds shout “Hosanna!” and wave palm branches. They welcome Him as King! 😲 But in the temple, Jesus gets upset — tables are overturned and He cleans G",
+     "published": "2026-03-24"
+    },
+    {
+     "id": "kWthW-_-J8Y",
+     "title": "بائبل ٹائم ٹریولر: اچھا سامری – اپنے پڑوسی سے محبت کرو ❤️🙌",
+     "desc": "😲 کیا ہو اگر یسوع نے ایک کہانی سنائی کہ تمہارا پڑوسی کون ہے؟ 🙏 ایک آدمی خطرناک سڑک پر زخمی ہو جاتا ہے—ڈاکو اسے مارتے ہیں اور ادھ مُؤا چھوڑ جاتے ہیں! 😔 ایک کاہن اور ایک لاوی دیکھ کر گزر جاتے ہیں... مگر رُکو! 🤗 ایک سامری (",
+     "published": "2026-03-19"
+    },
+    {
+     "id": "B-mLVe-ivNw",
+     "title": "Bible Time Traveler: The Good Samaritan – Love Your Neighbor ❤️🙌",
+     "desc": "😲 What if Jesus told a story to show who your neighbor really is? 🙏 A man gets hurt on a dangerous road—robbers beat him and leave him alone! 😔 A priest and a Levite walk right by without helping... but wait! 🤗 A Samarit",
+     "published": "2026-03-18"
+    },
+    {
+     "id": "tnAVeOuA8TA",
+     "title": "بائبل ٹائم ٹریولر: وہ رات جب خدا ہمارے قریب آیا ✨🙏",
+     "desc": "🌟 تصور کریں کہ کائنات کا خدا ایک چھوٹے سے بچے کی شکل میں ہمارے پاس آیا—صرف ہمارے لیے! 😲 یوسف پریشان اور الجھن میں تھا، لیکن فرشتے نے کہا: یہ بچہ یسوع ہے، نجات دہندہ، اور وہ “خدا ہمارے ساتھ” ہے! 📖 بیت لحم کے ایک سادہ اصطب",
+     "published": "2026-03-18"
+    },
+    {
+     "id": "0FweJ54eqtI",
+     "title": "Bible Time Traveler: The Night God Came Near ✨🙏",
+     "desc": "🌟 Imagine the God who made everything coming as a tiny baby—just for us! 😲 Joseph was worried and confused, but an angel told him: This baby is Jesus, the Savior, and He is “God with us”! 📖 In a humble stable in Bethlehe",
+     "published": "2026-03-18"
+    },
+    {
+     "id": "DtBANM0PUZ8",
+     "title": "دانئییل شیر کی کھوہ میں: خدا نے منہ بند کر دیے! 🦁🙏",
+     "desc": "🦁😲 دانئییل خدا سے اتنا پیار کرتا تھا کہ روزانہ دعا کرتا رہا چاہے قانون خلاف ہو! 😟 حسد کرنے والوں نے بادشاہ کو دھوکہ دے کر قانون بنوایا: صرف بادشاہ کو دعا کرو ورنہ شیر کی کھوہ میں ڈالو۔ 🙌 دانئییل نے پھر بھی دعا جاری رکھی ",
+     "published": "2026-03-16"
+    },
+    {
+     "id": "SyfiT2sDAyo",
+     "title": "🦁😲 Daniel loved God so much he prayed every day even when it was against the law!",
+     "desc": "😟 Jealous leaders tricked the king into a scary rule: pray only to the king or face lions. 🙌 Daniel kept praying anyway because he trusted God more than he feared lions. 🔒 Thrown into the den at night, lions all around, ",
+     "published": "2026-03-16"
+    },
+    {
+     "id": "H-0v3ixXl9U",
+     "title": "خدا نے سب کچھ بنایا: وہ تمہاری ہر مشکل سنبھال سکتا ہے! 🌍✨",
+     "desc": "🌑😲 مکمل اندھیرا تھا، پھر خدا نے کہا اور روشنی پھٹ پڑی کائنات میں! 🌌 دن بہ دن آسمان، زمین، سمندر، سورج، چاند، ستارے، مچھلیاں، پرندے، جانور بنائے! 🐘👫 آخر میں انسان کو اپنی صورت میں بنایا اور کہا: \"بہت اچھا ہے!\" 🙌 یہ وہی طا",
+     "published": "2026-03-14"
+    },
+    {
+     "id": "4yT8rcWcqAo",
+     "title": "God Creates Everything: He Can Handle Your Problems! 🌍✨",
+     "desc": "🌑😲 Total darkness, then God speaks and BOOM! Light explodes into the universe! 🌌 Day by day He makes sky, land, seas, sun, moon, stars, fish, birds, animals! 🐘👫 Finally He creates people in His own image, and says it is ",
+     "published": "2026-03-14"
+    },
+    {
+     "id": "bVFyzekQ0l4",
+     "title": "داود بمقابلہ جالوت: خدا ہر دیو سے بڑا ہے! 🪨🏆",
+     "desc": "😲🏔️ دو فوجیں آمنے سامنے، مگر ایک دیو جالوت 40 دن تک سب کو ڈراتا رہا! 😟 بنی اسرائیل ڈر کر بھاگتے تھے، کوئی لڑنے کو تیار نہیں۔ 🙌 پھر چھوٹا چرواہا داود آیا اور پوچھا: \"یہ زندہ خدا کی توہین کرنے والا کون ہے؟\" 🛡️ بادشاہ کا زر",
+     "published": "2026-03-13"
+    },
+    {
+     "id": "7_7j4qTAxRE",
+     "title": "David vs Goliath: God Is Bigger Than Any Giant! 🪨🏆",
+     "desc": "😲🏔️ Two armies face off, but one giant named Goliath terrifies everyone for 40 days! 😟 Israelites run in fear, nobody dares fight the huge warrior. 🙌 Then young shepherd David shows up and asks: “Who is this guy defying ",
+     "published": "2026-03-13"
+    },
+    {
+     "id": "P3AyJVSqVec",
+     "title": "سیمسن: مضبوط جسم، کمزور دل، خدا کی رحمت جیت گئی! 💪🙏",
+     "desc": "💪😲 سیمسن تاریخ کا سب سے طاقتور شخص تھا، خدا کی طاقت سے شیر اور دشمنوں سے لڑتا تھا! 😔 مگر اس کا دل کمزور تھا، اپنی خواہشات کے پیچھے چلا اور بڑی مصیبت میں پڑ گیا۔ 🪒 دلیلا نے اسے دھوکہ دیا، بال کاٹ دیے گئے اور وہ کمزور ہو گ",
+     "published": "2026-03-12"
+    },
+    {
+     "id": "y3n66HsoeOI",
+     "title": "Samson: Strong Body, Weak Heart, God's Mercy Wins! 💪🙏",
+     "desc": "💪😲 Samson was the strongest man ever, fighting lions and enemies with God's power! 😔 But his heart was weak, he followed his own desires and got into big trouble. 🪒 Delilah tricked him, his hair was cut, and he lost his ",
+     "published": "2026-03-12"
+    },
+    {
+     "id": "mXc_oIt1Sqw",
+     "title": "وہ رات جب خدا قریب آیا: یسوع کی پیدائش! ✨",
+     "desc": "🌟😲 وہ خدا جس نے سب کچھ بنایا، بیت لحم میں ایک چھوٹے بچے کی شکل میں آیا! 🙌 یوسف نے فرشتے کی بات مانی اور مشکل میں بھی اطاعت کی۔ 👶 یسوع ایک سادہ اصطبل میں پیدا ہوا، محل میں نہیں، کیونکہ وہ ہمارے قریب آنا چاہتا تھا۔ 🕊️ مشرق",
+     "published": "2026-03-11"
+    },
+    {
+     "id": "h9ZF8pVIVC4",
+     "title": "The Night God Came Near: Jesus Is With Us ✨👶",
+     "desc": "✨ Ever heard the Christmas story and wondered, “What’s the big deal about a baby in a manger?” This night is when the God of the universe came close to us. 😟 Meet Joseph in Nazareth, confused and hurting, until an angel ",
+     "published": "2026-03-11"
+    },
+    {
+     "id": "F091imwXd_o",
+     "title": "یونس، بہت بڑی مچھلی اور خدا کی زبردست رحمت 🐟🙏",
+     "desc": "😱 کبھی دل کیا “میں نہیں کر سکتا، میں جا رہا ہوں!” کہنے کو؟ یونس نے بھی ایسا ہی کیا اور خدا کے حکم سے الٹی طرف بھاگ گیا! 🌊 جہاز ہِل رہا ہے، ملاح چیخ رہے ہیں، سامان سمندر میں جا رہا ہے… اور آخرکار یونس مان لیتا ہے کہ یہ طو",
+     "published": "2026-03-11"
+    },
+    {
+     "id": "MvRSDzq8emA",
+     "title": "ملکہ اِستر: ڈری ہوئی مگر خدا کے ساتھ بہادر 👑🙏",
+     "desc": "ہم اِستر کے ساتھ سفر کریں گے، جب وہ یتیم لڑکی سے بہادر ملکہ بنتی ہے، حامان کی بُری چال دیکھیں گے، اور سیکھیں گے کہ خدا نے اُس کی ہمت سے اپنی قوم کو کیسے بچایا۔ 🕊️📖 آپ سنیں گے جب اِستر کہتی ہے، “اگر میں مر جاؤں تو مر جاؤں",
+     "published": "2026-03-11"
+    },
+    {
+     "id": "GlxRwQO9AeQ",
+     "title": "Jonah, the Huge Fish, and God’s Big Mercy 🐟🙏",
+     "desc": "😱 Ever felt like saying, “Nope, I’m out!” when something feels too hard? That’s Jonah—running the opposite way from what God said! 🌊 The ship is shaking, the sailors are screaming, boxes are flying overboard… and Jonah f",
+     "published": "2026-03-11"
+    },
+    {
+     "id": "NKs64xlIl0k",
+     "title": "👑 Esther: Scared but Brave With God 🙏",
+     "desc": "Ever feel scared to do the right thing? Esther did too. 😰👑 In this Bible Time Traveler adventure, you’ll see how God placed an ordinary girl in a royal palace “for such a time as this.” 🙌✨ We’ll travel with Esther from n",
+     "published": "2026-03-10"
+    },
+    {
+     "id": "vfrpVGKZw0w",
+     "title": "بائبل ٹائم ٹریولر: پطرس پانی پر چلتا ہے (بچوں کی کہانی)",
+     "desc": "🌊 جب پطرس لہروں کو دیکھتا ہے اور یسوع سے نظریں ہٹا لیتا ہے تو کیا ہوتا ہے؟ اس بائبل ٹائم ٹریولر کہانی میں بچے پطرس کے پانی پر چلنے کا منظر اپنی آنکھوں کے سامنے دیکھتے ہیں۔ 🚤 ہم طوفانی جھیل پر پہنچتے ہیں، دیکھتے ہیں کہ پط",
+     "published": "2026-03-09"
+    },
+    {
+     "id": "9jQiW_Aj9Z4",
+     "title": "Bible Time Traveler: Peter Walks on Water (Kids Bible Story)",
+     "desc": "🌊 What happens when Peter looks at the waves instead of Jesus? In this Bible Time Traveler adventure, kids see the story of Peter walking on water come to life. 🚤 We visit the stormy lake, watch Peter step out in faith, ",
+     "published": "2026-03-09"
+    },
+    {
+     "id": "70BnBiXpIyI",
+     "title": "Time Travel cartoon (Part 2)",
+     "desc": "✨ What if a 2-minute cartoon could travel across the world and encourage someone who’s never met you (Part 2)? 🎥 Here is the second part of school cartoons, and the response has honestly humbled me. 💡 Here’s what I’m lea",
+     "published": "2026-01-18"
+    },
+    {
+     "id": "lq9z1fxnz6c",
+     "title": "Bible Time Traveler: Jesus Is Baptized 🌊🕊️",
+     "desc": "😮 In the hot, dry wilderness, John the Baptist is calling people to repent and get their hearts ready for the kingdom of heaven—and for Someone much greater who is coming after him. 🌊 Crowds line up at the Jordan River, ",
+     "published": "2026-04-17"
+    },
+    {
+     "id": "qcNM47_3LGs",
+     "title": "بائبل ٹائم ٹریولر: یسوع کا بپتسمہ 🌊🕊️",
+     "desc": "😮 گرم اور خشک بیابان میں یوحنا بپتسمہ دینے والا یہ پیغام دے رہا ہے کہ “توبہ کرو، کیونکہ آسمان کی بادشاہی نزدیک آ گئی ہے” اور لوگوں کے دلوں کو یسوع کے لئے تیار کر رہا ہے۔ 🌊 لوگ دریائے یردن کے کنارے قطار میں کھڑے ہیں، اپنے",
+     "published": "2026-04-18"
+    },
+    {
+     "id": "cRwHnZtIbI8",
+     "title": "بائبل ٹائم ٹریولر: موسیٰ اور جلتی جھاڑی 🔥🌿",
+     "desc": "موسیٰ سمجھتا تھا اس کی بڑی کہانی ختم ہو چکی ہے—بس بیابان میں ایک چرواہا، بھیڑ بکریاں اور سکون… پھر خدا نے جلتی جھاڑی سے اس سے بات کی 🔥🌿 اس مقدس لمحے میں خدا نے موسیٰ کو دکھایا: “میں اپنے لوگوں کا درد دیکھتا ہوں، ان کی فر",
+     "published": "2026-04-22"
+    },
+    {
+     "id": "Xjzw6VkBHis",
+     "title": "Bible Time Traveler: Moses and the Burning Bush 🔥🌿",
+     "desc": "Moses thought his big story was over—just a shepherd in the desert with a bunch of sheep… then God spoke from a burning bush 🔥🌿 In that holy moment, God showed Moses, “I see My people hurting, and I have a plan to rescue",
+     "published": "2026-04-23"
+    },
+    {
+     "id": "QsKngftJbfA",
+     "title": "Bible Time Traveler: David – From Shepherd Boy to Chosen King 🐑👑",
+     "desc": "Before David fought Goliath, God was training his heart in the quiet fields—protecting sheep, facing lions and bears, and being faithful when no one was watching 🐑⛰️ People saw “just a shepherd boy,” but God saw a king—b",
+     "published": "2026-04-30"
+    },
+    {
+     "id": "xvryCWLmYqA",
+     "title": "بائبل ٹائم ٹریولر: داؤد – چرواہے لڑکے سے چُنا ہوا بادشاہ 🐑👑",
+     "desc": "جس سے پہلے داؤد نے گولیات کا مقابلہ کیا، خدا خاموش میدانوں میں اس کے دل کو تربیت دے رہا تھا—بھیڑوں کی حفاظت، شیروں اور ریچھوں کا سامنا، اور چھوٹے کاموں میں وفاداری 🐑⛰️ لوگوں کو وہ صرف ”چرواہا لڑکا“ دکھائی دیتا تھا، مگر خ",
+     "published": "2026-04-30"
+    },
+    {
+     "id": "g8JI9qBOO6I",
+     "title": "بائبل ٹائم ٹراویلر: موسیٰ اور دس آفتیں ✝️🕰️",
+     "desc": "سوچو! نل کھولو اور پانی کی جگہ خون نکل آئے… یا تمہارے سیریل کے پیالے سے مینڈک چھلانگ لگا دیں! 😱🐸 اس بائبل ٹائم ٹراویلر ایڈونچر میں بچے فرعون کے محل میں “لینڈ” ہوتے ہیں اور اپنی آنکھوں سے دیکھتے ہیں کہ خدا دس آفتوں کے ذری",
+     "published": "2026-05-06"
+    },
+    {
+     "id": "2NTmWJ6frys",
+     "title": "Bible Time Traveler: Moses and the Ten Plagues ✝️🕰️",
+     "desc": "What if your sink turned on and BLOOD came out instead of water… or frogs jumped into your cereal bowl? 😱🐸 In this Bible Time Traveler adventure, kids land in Pharaoh’s palace and see how God uses the ten plagues to resc",
+     "published": "2026-05-06"
+    },
+    {
+     "id": "FQ2y1rH_5No",
+     "title": "خدا نے پہلے بچایا — پھر اپنے احکام دیے 🕊️📖",
+     "desc": "خدا آگ اور بادلوں میں کوہِ سینا پر اترا — اور اپنے لوگوں کو 10 اہم قوانین دیے 🔥⚡ یہ دس احکام زندگی مشکل بنانے کے لیے نہیں — بلکہ اچھی اور خوشحال زندگی کے لیے ہیں 📖✨ خدا نے پہلے اپنے لوگوں کو بچایا — پھر انہیں اپنی شریعت ",
+     "published": "2026-05-13"
+    }
+   ]
+  },
+  {
+   "key": "main",
+   "label": "AI Disciple",
+   "playlistId": "PLTvM1sAcXxkXLOAhi7Nvrd5_e_kaIZlu6",
+   "count_returned": 32,
+   "videos": [
+    {
+     "id": "pXMLWx-vuh4",
+     "title": "🤔 What if the greatest code ever written predates every computer by 3,000 years? #history",
+     "desc": "💛 You have probably seen the clickbait.\"Quantum AI decoded the Bible.\"\"Hidden codes finally cracked.\" But here is the honest, faith-grounded truth. 📖 The Bible DOES contain real numerical patterns.Scholars and Church Fat",
+     "published": "2026-04-21"
+    },
+    {
+     "id": "TVNMKdUc9yQ",
+     "title": "📊 Your data is sitting there doing nothing",
+     "desc": "⏰ And your team is still building reports by hand 💛 You're not short on information 💛 You're short on a system that puts that information to work ✅ Ask plain English questions, get instant charts ✅ Live dashboards that u",
+     "published": "2026-04-15"
+    },
+    {
+     "id": "CpKmOMmns3M",
+     "title": "😫 Tired of chasing tasks instead of progress?",
+     "desc": "🤖 AI can handle the busywork so you can lead with clarity. ⚙️ AI tools like Asana Intelligence, Notion AI, and Motion:✅ Prioritize what matters most. 🕒 Predict deadlines before they slip.👥 Rebalance workloads to prevent ",
+     "published": "2026-03-31"
+    },
+    {
+     "id": "XYA1ikfiufA",
+     "title": "😮‍💨 Homework time shouldn’t end in tears, eye rolls, and slammed pencils.",
+     "desc": "🙏 Tonight, turn it into discipleship time. Here’s the simple shift that changed our evenings: ✨ I stopped being the “homework cop”… and started being the calm coach. When your child gets stuck, try this quick routine: 🧩 ",
+     "published": "2026-03-26"
+    },
+    {
+     "id": "GV7ZZEERIO8",
+     "title": "😮‍💨 Drowning in docs, policies, and PDFs you can’t find?",
+     "desc": "🤖 AI document automation can give your whole team their time back. 💛 If your staff is hunting for files, recreating old documents, and keying in data by hand, that’s hidden burnout.📄 The problem usually isn’t “not enough",
+     "published": "2026-03-23"
+    },
+    {
+     "id": "keazTZEQ_Do",
+     "title": "😮‍💨 Seen a “gotcha” video where someone proves AI is wrong and then says, “See, it’s useless”?",
+     "desc": "🤔 The real problem isn’t that AI is always wrong… it’s that we expect it to be always right. 💛 AI can be an incredible assistant when you treat it like a fallible tool, not a perfect oracle.🤖 The key is simple: trust but",
+     "published": "2026-03-11"
+    },
+    {
+     "id": "vGwqboFMigE",
+     "title": "😮‍💨 Can’t find that conversation in WhatsApp when you KNOW you had that conversation?",
+     "desc": "🤖 Try this simple AI workflow instead. 💛 You don’t have to remember exact words anymore. 📱 Just export, upload, and ask in plain language. ✅ Step 1: Export the chat from WhatsApp (More → Export chat → without media). 💾 S",
+     "published": "2026-03-03"
+    },
+    {
+     "id": "x0jeFNUmjUI",
+     "title": "🧠 Every team has “that person” who quietly keeps everything from falling apart.",
+     "desc": "😅 The one everyone pings when something breaks, a client asks a weird question, or a process “isn’t working like it used to.” 🔥 If they take a day off and the whole place slows down… you don’t have a people problem. You ",
+     "published": "2026-02-26"
+    },
+    {
+     "id": "6uhF0byQoDw",
+     "title": "🚨 If video is still a “nice to have” in your business… you’re already behind.",
+     "desc": "🎥 The companies pulling ahead aren’t creating more content.They’re building a smarter video system. 💸 If every update requires a reshoot, a new edit, and another round of approvals… you’re not “being thorough.” You’re bl",
+     "published": "2026-02-25"
+    },
+    {
+     "id": "zkDvmYNQd7A",
+     "title": "Most people don’t need more willpower.",
+     "desc": "They need clearer priorities and a simple weekly plan. If your to‑do list feels like chaos, you’re not lazy—you’re overloaded. ​ ​ AI can act like a “second brain” that turns the mess into a clear roadmap for your week. ",
+     "published": "2026-02-24"
+    },
+    {
+     "id": "4UFBLMsfkWo",
+     "title": "Your brain should be in the conversation, not buried in note‑taking.",
+     "desc": "Let AI sit in your meetings so you can actually be present. Most teams don’t need more meetings.They need meetings that actually turn into clear decisions and follow‑through. Here’s the AI meeting copilot workflow I use ",
+     "published": "2026-02-20"
+    },
+    {
+     "id": "6aaCcOCS11o",
+     "title": "🚫 Stop posting content no one saves",
+     "desc": "For Christian creators and digital entrepreneurs.Here’s how to write scroll-stopping posts that pull traffic. ✅ Start with a hook that grabs attention. ✅ Share quick, real value in short lines. ✅ End with a conversation ",
+     "published": "2026-02-19"
+    },
+    {
+     "id": "dJ0-Rwatzig",
+     "title": "🚨 If your output includes facts or numbers, run this 10-second test.",
+     "desc": "Because one confident-sounding detail can turn into a client mistake, a compliance issue, or a bad decision fast. 🖍️ My “high risk” reality check when I’m reviewing anything important: • ✅ Highlight every claim • 🔢 Circl",
+     "published": "2026-02-19"
+    },
+    {
+     "id": "Zb_TMcYHwEk",
+     "title": "If you have a meeting tomorrow, this is your shortcut.",
+     "desc": "😅 You don’t need “more research.” You need a clean slide story. 🗂️ Here’s the fastest way to turn your chaos folder into a real outline you can paste into slides. ✅ Workflow I use when the clock is loud: 📝 Gather everyth",
+     "published": "2026-02-19"
+    },
+    {
+     "id": "H-k2rvvqkaU",
+     "title": "Imagine waking up to a clean summary of yesterday’s important emails.",
+     "desc": "😮‍💨 Your inbox isn’t the job. Your judgment is.📩 So instead of starting the day drowning in threads, I route a morning briefing straight to Slack. ✅ What the workflow does:• Connect Gmail or Outlook (read permissions)• A",
+     "published": "2026-02-16"
+    },
+    {
+     "id": "F5dPNJFnD9c",
+     "title": "🎬 Bible stories don’t have to sound like a children’s cartoon to be powerful.",
+     "desc": "🔥 If your Reels feel “cute” instead of compelling, it’s not your voice. It’s your structure. ✨ Here’s the cinematic framework that instantly changes the tone: • ⚡ Open with tension: “What happens when…” • 🏜️ Show the set",
+     "published": "2026-02-16"
+    },
+    {
+     "id": "RV3bQM691XA",
+     "title": "🚫 If you read every email thread, you are donating your time.",
+     "desc": "🕊️ You were not called to live inside your inbox. You were called to live with focus, wisdom, and peace. ☕ Here’s the shift: stop “scrolling for clarity.” Start letting threads get condensed, then you only touch what req",
+     "published": "2026-02-12"
+    },
+    {
+     "id": "24zb-F7UdOQ",
+     "title": "😵‍💫 Ever open an email and suddenly forget how to be a person?",
+     "desc": "✨ Here’s the 30-second shortcut to reply fast without sounding cold. ☕️ When the message is awkward, sensitive, or just… too much:Copy the email → paste it → add: “Write a kind, short reply.”Then pick your vibe: calm, co",
+     "published": "2026-02-11"
+    },
+    {
+     "id": "-6LLJ7Ik0hk",
+     "title": "📄 Some work docs are so long you start reading… then forget what you read. 😵‍💫",
+     "desc": "✨ Here’s the shortcut: turn the “Policy” stack into a one-page, kid-simple summary so you can act fast without missing the point. 🧠 Try this approach on any long document: • ✅ Ask for the main point in 3 bullet lines • ✅",
+     "published": "2026-02-10"
+    },
+    {
+     "id": "2FrWLJByWek",
+     "title": "If your meeting notes look like spaghetti, AI can fix them.",
+     "desc": "🌀 You don’t need to retype everything or “decode” your own handwriting at 6pm.✅ Turn the mess into a clean summary in under a minute. 📝 Here’s the exact flow: • 📸 Start with the messy notes (yes, even the chaotic ones) •",
+     "published": "2026-02-10"
+    },
+    {
+     "id": "BXMUnkKYJdM",
+     "title": "Most people walk into lunch and then wonder why it’s awkward.",
+     "desc": "🧠 A master prompt is like knowing who you’re meeting for lunch before you arrive. ☕️ When you show up with zero context, you get small talk. You waste time warming up. You leave without anything useful. 📝 But when you kn",
+     "published": "2026-02-04"
+    },
+    {
+     "id": "D8DzPyZXWdk",
+     "title": "If you don’t know what to trust about AI anymore, this is your filter.",
+     "desc": "🧠 The goal isn’t to read more.It’s to believe less… until it earns your belief. 📌 Here’s the quick “Trust Filter” I keep next to my desk for any headline that spikes your stress: • 🧍‍♂️ Who is saying it? (expert, influen",
+     "published": "2026-01-22"
+    },
+    {
+     "id": "KJcvOXj-jsE",
+     "title": "If your emails sound “perfect”… but not like you, you don’t need to write harder.",
+     "desc": "If your emails sound “perfect”… but not like you, you don’t need to write harder.✨ You need to teach your voice better. ☕️ Here’s my 10-minute “sounds-like-me” setup before I reply to anyone: • 📝 Pick 3 real writing samp",
+     "published": "2026-01-22"
+    },
+    {
+     "id": "dH9E9wVe2VM",
+     "title": "🚨Stop turning every task into an experiment.",
+     "desc": "🧠Before you use AI on any task, run this 15-second triage. Here’s the tiny checklist I keep on a card so I don’t waste hours “testing” stuff that was never a good fit: • ✅ Is the goal measurable? • ✅ Are the inputs avail",
+     "published": "2026-01-15"
+    },
+    {
+     "id": "u1Ge_gsDX4c",
+     "title": "⚠️ Fear can look like “discernment” when it’s really just retreat.",
+     "desc": "📖 Some Christians run from AI like Israel ran from Ai. Israel didn’t lose because the city was too strong. They lost because they moved without obedience, without confession, without alignment. 🕯️ Then they returned with",
+     "published": "2026-01-14"
+    },
+    {
+     "id": "D-eyRDM9aeY",
+     "title": "⚡️Stop repeating rumors about “robots taking over.”",
+     "desc": "✅ Here’s what actually works right now and where you still need a human brain. 🟢 Great at: • Summarizing long stuff fast • Drafting a first version you can improve • Reformatting chaos into clean (emails, outlines, plans",
+     "published": "2026-01-13"
+    },
+    {
+     "id": "Fm2abdhRLMI",
+     "title": "This is why you can’t focus: you’re afraid you’ll forget.",
+     "desc": "🧠 Your brain is trying to be a calendar, a sticky note, and a to-do list… all at once.So every “not now” task keeps tugging at you while you’re trying to work. ✅ Fix it with one note: LATER. • 📝 Create a LATER list • 🧺 D",
+     "published": "2026-01-12"
+    },
+    {
+     "id": "-zcUWwlN9mk",
+     "title": "Your mission does not need more meetings.",
+     "desc": "It needs fewer manual tasks that quietly drain your week. ⛪️ 🕯️The most powerful “upgrade” is often invisible: fewer admin fires. 📅 When the calendar is packed, the coffee is cold, and the volunteer stack keeps growing, ",
+     "published": "2026-01-12"
+    },
+    {
+     "id": "ZupcdVy49BI",
+     "title": "🚫 Your personal number is not a contact form.",
+     "desc": "🧱 One extra number can be the boundary between peace and constant interruptions. Here’s the 2-number setup I wish I did sooner: 🔒 Personal SIM = family, bank stuff, and 2FA only 📲 Public number = ministry + content conne",
+     "published": "2026-01-11"
+    },
+    {
+     "id": "5zD0qabJhNU",
+     "title": "Stop posting your real WhatsApp number",
+     "desc": "🚫 Stop posting your real WhatsApp number like it’s “just a contact.” ⚠️ If that SIM is tied to your bank + 2FA, you’re basically handing scammers the first piece they need. Here’s the risk most people miss: 📲 Your phone ",
+     "published": "2026-01-10"
+    },
+    {
+     "id": "TemBxffUtt0",
+     "title": "AI won’t ‘take your job’",
+     "desc": "AI won’t ‘take your job’ the way your brain imagines it. 😮‍💨 When your nervous system hears “replacement,” it translates it as: “I’m done.” But most of the time, what actually happens is quieter: pieces of the work shift",
+     "published": "2026-01-09"
+    },
+    {
+     "id": "YoTDFNpCnPA",
+     "title": "If your brain feels like 27 tabs open.",
+     "desc": "If your brain feels like 27 tabs open, you don’t need more motivation. You need a place to park tasks so your “Today” list stays doable. 🧠 Here’s the rescue when your week feels overloaded: 📝 Make 3 lists. That’s it. ✅ T",
+     "published": "2026-01-05"
+    }
+   ]
+  }
+ ]
+}

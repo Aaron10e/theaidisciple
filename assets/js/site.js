@@ -1,4 +1,4 @@
-/* The AI Disciple — site behaviour. Progressive enhancement only:
+/* The AI Disciple — site behavior. Progressive enhancement only:
    every piece of content is present in the HTML before this runs. */
 (function () {
   'use strict';
@@ -96,7 +96,7 @@
           form.reset();
           if (status) {
             status.textContent =
-              'Thank you — your message is in. I reply to every enquiry within one business day.';
+              'Thank you — your message is in. I reply within one business day.';
             status.setAttribute('data-state', 'ok');
           }
         })
@@ -116,34 +116,51 @@
     });
   });
 
-  /* ---------- Story library filter (filters DOM already rendered server-side) ---------- */
-  var grid = document.getElementById('story-grid');
-  if (grid) {
-    var stories = Array.prototype.slice.call(grid.querySelectorAll('.story'));
-    var input = document.getElementById('story-search');
-    var meta = document.getElementById('story-meta');
-    var empty = document.getElementById('story-empty');
-    var chips = Array.prototype.slice.call(document.querySelectorAll('[data-lang-filter]'));
-    var lang = 'all';
+  /* ---------- Library filter (filters DOM already rendered server-side) ---------- */
+  function initLibrary(cfg) {
+    var grid = document.getElementById(cfg.grid);
+    if (!grid) return;
+    var items = Array.prototype.slice.call(grid.querySelectorAll('.story'));
+    var input = document.getElementById(cfg.search);
+    var meta = document.getElementById(cfg.meta);
+    var empty = document.getElementById(cfg.empty);
+    var chips = Array.prototype.slice.call(document.querySelectorAll('[' + cfg.attr + ']'));
+    var facet = 'all';
     var term = '';
-    var total = stories.length;
+    var total = items.length;
 
     function apply() {
       var shown = 0;
-      stories.forEach(function (el) {
-        var okLang = lang === 'all' || el.getAttribute('data-lang') === lang;
+      items.forEach(function (el) {
+        var okFacet = facet === 'all' || el.getAttribute(cfg.data) === facet;
         var okTerm = !term || (el.getAttribute('data-search') || '').indexOf(term) !== -1;
-        var visible = okLang && okTerm;
+        var visible = okFacet && okTerm;
         el.hidden = !visible;
         if (visible) shown++;
       });
       if (meta) {
         meta.textContent =
           shown === total
-            ? 'Showing all ' + total + ' stories'
-            : 'Showing ' + shown + ' of ' + total + ' stories';
+            ? 'Showing all ' + total + ' ' + cfg.noun
+            : 'Showing ' + shown + ' of ' + total + ' ' + cfg.noun;
       }
       if (empty) empty.hidden = shown !== 0;
+    }
+
+    function select(value, focusChip) {
+      var match = chips.filter(function (c) {
+        return c.getAttribute(cfg.attr) === value;
+      })[0];
+      if (!match) return false;
+      facet = value;
+      chips.forEach(function (c) {
+        c.setAttribute('aria-pressed', String(c === match));
+      });
+      if (focusChip && typeof match.scrollIntoView === 'function') {
+        match.scrollIntoView({ block: 'nearest', inline: 'center' });
+      }
+      apply();
+      return true;
     }
 
     if (input) {
@@ -158,13 +175,23 @@
     }
     chips.forEach(function (chip) {
       chip.addEventListener('click', function () {
-        lang = chip.getAttribute('data-lang-filter');
-        chips.forEach(function (c) {
-          c.setAttribute('aria-pressed', String(c === chip));
-        });
-        apply();
+        select(chip.getAttribute(cfg.attr), false);
       });
     });
+
+    /* Deep link: /videos.html?category=guide or /videos.html#guide */
+    if (cfg.param) {
+      var wanted = '';
+      try {
+        wanted = new URLSearchParams(window.location.search).get(cfg.param) || '';
+      } catch (err) {
+        wanted = '';
+      }
+      if (!wanted && window.location.hash.length > 1) {
+        wanted = decodeURIComponent(window.location.hash.slice(1));
+      }
+      if (wanted) select(wanted, true);
+    }
 
     /* Click-to-load YouTube: keeps the page fast, no iframes until asked */
     grid.addEventListener('click', function (e) {
@@ -178,13 +205,22 @@
       thumb.setAttribute('data-loaded', 'true');
       var f = document.createElement('iframe');
       f.src = 'https://www.youtube-nocookie.com/embed/' + id + '?autoplay=1&rel=0';
-      f.title = link.getAttribute('data-title') || 'Bible story video';
+      f.title = link.getAttribute('data-title') || 'Video';
       f.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; picture-in-picture';
       f.allowFullscreen = true;
       f.style.cssText = 'position:absolute;inset:0;width:100%;height:100%;border:0;';
       thumb.appendChild(f);
     });
   }
+
+  initLibrary({
+    grid: 'story-grid', search: 'story-search', meta: 'story-meta', empty: 'story-empty',
+    attr: 'data-lang-filter', data: 'data-lang', noun: 'stories', param: ''
+  });
+  initLibrary({
+    grid: 'video-grid', search: 'video-search', meta: 'video-meta', empty: 'video-empty',
+    attr: 'data-cat-filter', data: 'data-cat', noun: 'videos', param: 'category'
+  });
 
   /* ---------- Lazy-load homepage videos on click ---------- */
   document.querySelectorAll('[data-video-embed]').forEach(function (holder) {

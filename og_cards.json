@@ -1,23 +1,23 @@
 {
   "og-home.png": {
-    "eyebrow": "AI consulting \u00b7 Fresno, CA",
+    "eyebrow": "AI consulting · Fresno, CA",
     "title": "AI your team will actually use on Monday morning.",
     "sub": "Practical AI consulting and training for small businesses, churches and nonprofits."
   },
   "og-services.png": {
     "eyebrow": "Services",
-    "title": "Six ways to get real work out of AI.",
-    "sub": "Assessment, workflow build, team training, retainer support, software and media."
+    "title": "Seven ways to get real work out of AI.",
+    "sub": "Assessment, workflow build, training, retainer, software, media and social."
   },
   "og-about.png": {
     "eyebrow": "About",
-    "title": "Aaron Tenney \u2014 AI consultant and trainer.",
+    "title": "Aaron Tenney — AI consultant and trainer.",
     "sub": "35 years building software. 5 years hands-on with AI. Based in Fresno, California."
   },
   "og-contact.png": {
     "eyebrow": "Contact",
     "title": "Book a free 20-minute call.",
-    "sub": "No pitch, no obligation \u2014 an honest answer about whether AI can help."
+    "sub": "No pitch, no obligation — an honest answer about whether AI can help."
   },
   "og-faq.png": {
     "eyebrow": "Questions & answers",
@@ -25,9 +25,14 @@
     "sub": "Cost, data safety, timelines, tools, and whether AI will replace your staff."
   },
   "og-stories.png": {
-    "eyebrow": "The library \u00b7 84 films",
+    "eyebrow": "The library · 84 films",
     "title": "Free animated Bible stories in English and Urdu.",
     "sub": "Free to watch, free to use in Sunday school, free to share."
+  },
+  "og-videos.png": {
+    "eyebrow": "The channel · six categories",
+    "title": "Watch the work.",
+    "sub": "Teaching, research, Scripture films, testimonies and kids' cartoons."
   },
   "og-download.png": {
     "eyebrow": "Free download",
@@ -37,7 +42,7 @@
   "og-church.png": {
     "eyebrow": "For churches",
     "title": "Bible films your congregation will watch.",
-    "sub": "Narrated Scripture films, teaching series and AI training for churches \u2014 plus free resources to get started."
+    "sub": "Narrated Scripture films, teaching series and AI training for churches — plus free resources to get started."
   },
   "og-training.png": {
     "eyebrow": "Free training",

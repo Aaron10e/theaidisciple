@@ -21,7 +21,7 @@ NAV = [
     ("/services.html", "Services"),
     ("/for-churches.html", "For Churches"),
     ("/free-training.html", "Free Training"),
-    ("/bible-stories.html", "Bible Stories"),
+    ("/videos.html", "Videos"),
     ("/about.html", "About"),
     ("/faq.html", "FAQ"),
 ]
@@ -62,6 +62,7 @@ ORG = {
         "AI consulting", "AI workflow automation", "AI training for employees",
         "Generative AI adoption", "AI for nonprofits", "AI for churches",
         "Prompt engineering", "AI research workflows", "Web development", "Software modernization",
+        "AI social media marketing", "AI avatar and voice clones", "Short-form video strategy",
     ],
     "areaServed": [
         {"@type": "City", "name": "Fresno", "containedInPlace": {"@type": "State", "name": "California"}},
@@ -72,6 +73,7 @@ ORG = {
     "serviceType": [
         "AI consulting", "AI strategy assessment", "AI workflow design",
         "AI staff training", "AI support retainer", "Website and software modernization",
+        "AI social media marketing", "Personal brand AI clones",
     ],
     "availableLanguage": [
         {"@type": "Language", "name": "English"},
@@ -110,6 +112,7 @@ PERSON = {
         "Generative AI", "Large language models", "AI workflow automation",
         "Prompt engineering", "C#", "ASP.NET", "Angular", "TypeScript",
         "AI video production", "Bilingual content production",
+        "AI avatar clones", "Social media marketing",
     ],
     "knowsLanguage": ["English", "Urdu"],
     "sameAs": ["https://www.linkedin.com/in/aaron10e"] + [s[1] for s in SOCIALS],
@@ -260,6 +263,7 @@ def footer_html():
         <ul>
           <li><a href="/for-churches.html">For churches</a></li>
           <li><a href="/free-training.html">Free AI training</a></li>
+          <li><a href="/videos.html">Watch the work</a></li>
           <li><a href="/bible-stories.html">Bible story library</a></li>
           <li><a href="/download.html">Free AI QuickStart</a></li>
           <li><a href="/about.html">About Aaron</a></li>
