@@ -7,15 +7,23 @@ SITE = "https://www.theaidisciple.com"
 TODAY = datetime.date.today().isoformat()
 
 LOGO = (
-    '<svg class="brand__mark" viewBox="0 0 100 100" aria-hidden="true">'
-    '<g fill="none" stroke="currentColor" stroke-width="6" stroke-linecap="round" '
-    'stroke-linejoin="round">'
-    '<path d="M9,86 L50,14"/><path d="M50,14 L50,86"/>'
-    '<path d="M22.67,62 L50,62"/>'
-    '<path d="M50,14 L80,26 L89,50 L80,74 L50,86"/></g>'
-    '<circle cx="50" cy="14" r="8.5" fill="var(--color-accent)"/>'
-    '<circle cx="50" cy="86" r="8.5" fill="var(--color-accent)"/></svg>'
+    '<svg class="brand__mark" viewBox="0 0 100 100" aria-hidden="true"><rect width="100" height="100" rx="26" ry="26" fill="var(--color-accent)"/><g fill="none" stroke="var(--logo-knock)" stroke-width="8.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12,75 L29,27 L46,75 M17.4,59.6 L40.6,59.6"/><path d="M59,26.3 L59,75.7"/><path d="M59,26.3 C77,26.3 86,36 86,51 C86,66 77,75.7 59,75.7"/></g></svg>'
 )
+
+
+def asset_v(rel):
+    """Short content hash for cache busting.
+
+    .htaccess serves css/js as `immutable, max-age=31536000`, so a returning
+    visitor would keep the old file for up to a year. HTML is must-revalidate,
+    so versioning the URL here is what actually ships CSS/JS changes.
+    """
+    import hashlib
+    f = ROOT / rel.lstrip("/")
+    if not f.exists():
+        return ""
+    return "?v=" + hashlib.md5(f.read_bytes()).hexdigest()[:8]
+
 
 NAV = [
     ("/services.html", "Services"),
@@ -177,8 +185,8 @@ HEAD = """<!DOCTYPE html>
 <link rel="preconnect" href="https://api.fontshare.com" crossorigin>
 <link rel="preconnect" href="https://cdn.fontshare.com" crossorigin>
 <link rel="stylesheet" href="https://api.fontshare.com/v2/css?f[]=satoshi@400,500,600,700&f[]=zodiak@400,500,600&display=swap">
-<link rel="stylesheet" href="/assets/css/base.css">
-<link rel="stylesheet" href="/assets/css/site.css">
+<link rel="stylesheet" href="/assets/css/base.css{BASE_V}">
+<link rel="stylesheet" href="/assets/css/site.css{SITE_V}">
 {extra_head}
 <script type="application/ld+json">{schema}</script>
 </head>
@@ -189,7 +197,7 @@ HEAD = """<!DOCTYPE html>
 {body}
 </main>
 {footer}
-<script src="/assets/js/site.js" defer></script>
+<script src="/assets/js/site.js{JS_V}" defer></script>
 </body>
 </html>
 """
@@ -311,6 +319,9 @@ def build_page(slug, title, description, body, schema_extra, active=None,
         og_type=og_type, schema=schema, extra_head=extra_head,
         header=header_html(active or ("/" + slug if slug != "index.html" else "/")),
         body=body, footer=footer_html(),
+        BASE_V=asset_v("assets/css/base.css"),
+        SITE_V=asset_v("assets/css/site.css"),
+        JS_V=asset_v("assets/js/site.js"),
     ))
     (ROOT / slug).write_text(out, encoding="utf-8")
     print(f"  built {slug:24s} {len(out)//1024:>4} KB")

@@ -54,6 +54,7 @@
 :root,
 [data-theme='light'] {
   --color-bg: #faf7f1;
+  --logo-knock: #faf7f1;
   --color-surface: #ffffff;
   --color-surface-2: #f3eee3;
   --color-surface-3: #ece5d7;
@@ -82,6 +83,7 @@
 /* ---------- Dark theme ---------- */
 [data-theme='dark'] {
   --color-bg: #0e1218;
+  --logo-knock: #0e1218;
   --color-surface: #151a23;
   --color-surface-2: #1b212c;
   --color-surface-3: #232a36;
@@ -112,6 +114,7 @@
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme='light']) {
     --color-bg: #0e1218;
+    --logo-knock: #0e1218;
     --color-surface: #151a23;
     --color-surface-2: #1b212c;
     --color-surface-3: #232a36;

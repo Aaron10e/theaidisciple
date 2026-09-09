@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Regenerate Open Graph cards (1200x630) in the site's ink + cobalt style.
 
-Uses the real brand fonts (Zodiak display, Satoshi body) and the AD node mark,
+Uses the real brand fonts (Zodiak display, Satoshi body) and the AD seal mark,
 so the cards match the site instead of approximating it.
 """
 from PIL import Image, ImageDraw, ImageFont
@@ -9,8 +9,9 @@ import pathlib, json, io
 
 ROOT = pathlib.Path(__file__).parent
 OUT = ROOT / "assets" / "img"
-FONTS = pathlib.Path("/home/user/workspace/fonts")
-MARK = pathlib.Path("/home/user/workspace/logo/svg/mark-node-dark.svg")
+# Prefer a fonts/ folder beside this script; fall back to the build sandbox.
+FONTS = next((p for p in (ROOT / "fonts", pathlib.Path("/home/user/workspace/fonts"))
+              if p.is_dir()), ROOT / "fonts")
 
 W, H = 1200, 630
 INK = (16, 20, 28)
@@ -25,9 +26,14 @@ SANS_B = str(FONTS / "Satoshi-700.ttf")
 
 
 def brand_mark(px):
-    """Render the AD node mark (cream strokes, cobalt joins) at px, transparent."""
+    """Render the AD seal at px, transparent behind the badge.
+
+    Geometry comes from make_logo so the cards can never drift from the
+    favicon and the header mark. Cards sit on ink, so use the dark-theme
+    pairing: cobalt badge, ink letters."""
     import cairosvg
-    svg = MARK.read_text().replace('<rect', '<rect fill="none" data-x', 1)
+    import make_logo
+    svg = make_logo.doc(make_logo.mark(make_logo.ACCENT_DARK, make_logo.KNOCK_DARK))
     buf = io.BytesIO()
     cairosvg.svg2png(bytestring=svg.encode(), write_to=buf,
                      output_width=px, output_height=px, background_color=None)
