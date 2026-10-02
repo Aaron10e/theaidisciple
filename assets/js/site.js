@@ -103,7 +103,7 @@
         .catch(function () {
           if (status) {
             status.textContent =
-              'Something went wrong. Please email info@theaidisciple.com directly and I will get straight back to you.';
+              'Something went wrong. Please email aaron@theaidisciple.com directly and I will get straight back to you.';
             status.setAttribute('data-state', 'err');
           }
         })

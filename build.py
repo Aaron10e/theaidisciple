@@ -56,7 +56,8 @@ ORG = {
     "url": f"{SITE}/",
     "logo": {"@type": "ImageObject", "url": f"{SITE}/assets/img/logo.png", "width": 512, "height": 512},
     "image": f"{SITE}/assets/img/og-home.png",
-    "email": "info@theaidisciple.com",
+    "email": "aaron@theaidisciple.com",
+    "telephone": "+1-559-718-1480",
     "founder": {"@id": f"{SITE}/#aaron"},
     "foundingDate": "2025",
     "slogan": "Practical AI without the hype.",
@@ -92,7 +93,8 @@ ORG = {
     "contactPoint": {
         "@type": "ContactPoint",
         "contactType": "Sales and inquiries",
-        "email": "info@theaidisciple.com",
+        "email": "aaron@theaidisciple.com",
+        "telephone": "+1-559-718-1480",
         "areaServed": "US",
         "availableLanguage": ["English", "Urdu"],
     },
@@ -107,7 +109,7 @@ PERSON = {
     "jobTitle": "AI Consultant and Trainer",
     "url": f"{SITE}/about.html",
     "image": f"{SITE}/assets/img/aaron-tenney.jpg",
-    "email": "info@theaidisciple.com",
+    "email": "aaron@theaidisciple.com",
     "worksFor": {"@id": f"{SITE}/#organization"},
     "homeLocation": {"@type": "Place", "address": {"@type": "PostalAddress", "addressLocality": "Fresno", "addressRegion": "CA", "addressCountry": "US"}},
     "description": (
@@ -282,7 +284,8 @@ def footer_html():
       <div>
         <h3>Get in touch</h3>
         <ul>
-          <li><a href="mailto:info@theaidisciple.com">info@theaidisciple.com</a></li>
+          <li><a href="mailto:aaron@theaidisciple.com">aaron@theaidisciple.com</a></li>
+          <li><a href="tel:+15597181480">(559) 718-1480</a></li>
           <li><a href="/contact.html">Book a free 20-minute call</a></li>
           <li class="muted">Fresno &amp; Clovis, California<br>Remote across the US</li>
           <li class="muted">Replies within one business day</li>

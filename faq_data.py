@@ -182,5 +182,5 @@ FAQS = [
      "<p>Book the free 20-minute call. Come with one honest answer to one question: what does your team keep "
      "doing by hand that everyone quietly hates? That is almost always where the first workflow lives.</p>"
      "<p>You can <a href=\"/contact.html\">book a call here</a> or email "
-     "<a href=\"mailto:info@theaidisciple.com\">info@theaidisciple.com</a>.</p>", True),
+     "<a href=\"mailto:aaron@theaidisciple.com\">aaron@theaidisciple.com</a>.</p>", True),
 ]
